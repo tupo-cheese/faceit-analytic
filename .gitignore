@@ -1,0 +1,26 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Данные и кэш
+data/cache/
+data/debug/
+data/*.db
+data/*.db-shm
+data/*.db-wal
+
+# Временные файлы
+all_code.txt
+build/
+dist/
+
+# Секреты
+.env
+*.key
