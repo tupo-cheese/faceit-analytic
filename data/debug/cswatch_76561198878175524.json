@@ -1,0 +1,19 @@
+{
+  "source": "cswatch.gg",
+  "generatedAt": "2026-09-16T09:53:28.331Z",
+  "steamId": "76561198878175524",
+  "personaName": "АРМАТУРА",
+  "avatarUrl": "https://avatars.steamstatic.com/fc86e02ef324097017f06a3ec70d0995a937b231_full.jpg",
+  "reputationScore": 90,
+  "riskLevel": "low",
+  "isCheater": false,
+  "convictionCount": 0,
+  "aiSeverity": null,
+  "bans": {
+    "vac": false,
+    "gameBans": 0,
+    "lastBanDays": 0
+  },
+  "cswatchProfileUrl": "https://cswatch.gg/player/76561198878175524",
+  "steamProfileUrl": "https://steamcommunity.com/profiles/76561198878175524"
+}
