@@ -335,9 +335,7 @@ class App:
             dp = self.window.deep_page
             dp.set_match_data(md)
             dp.comparison.set_full_data(pl, tm, en, fr)
-            self.window.set_status(
-                f'🔬 Стриминг: {n} матчей · '
-                f'player-бакетов: {len(pl)}')
+            self.window.set_status(f'🔬 Стриминг: {n} матчей собрано…')
         except Exception as e:
             logger.debug(f'partial err: {e}')
 

@@ -1,5 +1,6 @@
 import time
 import logging
+import concurrent.futures
 from curl_cffi import requests as cffi_requests
 from src.services.proxy_rotator import get_proxy_rotator
 
@@ -25,7 +26,7 @@ class FaceitMatchStats:
             return ''
 
     @classmethod
-    def _try(cls, url, proxy, timeout=3):
+    def _try_one(cls, url, proxy, timeout=6):
         try:
             r = cffi_requests.get(url, headers=cls.HEADERS,
                                    impersonate='safari184', timeout=timeout,
@@ -38,23 +39,40 @@ class FaceitMatchStats:
 
     @classmethod
     def fetch_raw(cls, match_id):
-        """6 последовательных попыток: 3 URL × 2 профиля, разные прокси."""
         rotator = get_proxy_rotator()
-        urls = [f'{cls.BASE}/matches/{match_id}', f'{cls.V2}/{match_id}']
-        for url in urls:
-            for _ in range(3):
-                proxy = rotator.get()
-                try:
-                    data = cls._try(url, proxy, timeout=3)
-                    if data:
-                        rotator.report_ok(proxy)
-                        if isinstance(data, dict) and 'payload' in data:
-                            return data['payload']
-                        return data
-                    # пустой ответ — не обязательно fail, но и не ok
-                    rotator.report_fail(proxy)
-                except Exception:
-                    rotator.report_fail(proxy)
+        urls = [f'{cls.BASE}/matches/{match_id}',
+                f'{cls.V2}/{match_id}']
+        # 3 параллельные попытки — гонка: первый успех выигрывает
+        for round_idx in range(2):
+            attempts = []
+            with concurrent.futures.ThreadPoolExecutor(max_workers=3) as ex:
+                for url in urls:
+                    for _ in range(2):
+                        proxy = rotator.get()
+                        attempts.append((url, proxy,
+                                          ex.submit(cls._try_one, url, proxy)))
+                done, pending = concurrent.futures.wait(
+                    [a[2] for a in attempts], timeout=8,
+                    return_when=concurrent.futures.FIRST_COMPLETED)
+                for f in done:
+                    try:
+                        data = f.result()
+                        if data:
+                            # угадать какой был прокси — по индексу
+                            idx = [a[2] for a in attempts].index(f)
+                            rotator.report_ok(attempts[idx][1])
+                            for a in attempts:
+                                a[2].cancel()
+                            if isinstance(data, dict) and 'payload' in data:
+                                return data['payload']
+                            return data
+                    except Exception:
+                        pass
+                for f in pending:
+                    f.cancel()
+                for a in attempts:
+                    if not a[2].done():
+                        rotator.report_fail(a[1])
         return None
 
     @classmethod

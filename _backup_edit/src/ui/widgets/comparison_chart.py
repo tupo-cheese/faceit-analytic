@@ -256,14 +256,6 @@ class ComparisonChart(QWidget):
             return None
 
     def _redraw(self):
-        try:
-            self._redraw_inner()
-        except Exception as e:
-            import logging, traceback
-            logging.getLogger('faceit_analytics').error(
-                f'chart redraw err: {e}\n{traceback.format_exc()}')
-
-    def _redraw_inner(self):
         self.plot.clear()
         self._series_plots = {}
         self._highlight_item = None

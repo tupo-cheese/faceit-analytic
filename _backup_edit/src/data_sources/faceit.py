@@ -219,12 +219,9 @@ class FaceitSource(DataSource):
 
     async def fetch_matches(self, steam_id, limit=100):
         cached = self.cache.get('faceit_matches', steam_id)
-        if cached and len(cached) >= limit:
-            logger.info(f'  [matches] из кэша: {len(cached)}, нужно {limit}')
+        if cached and len(cached) >= min(limit, 100):
+            logger.info(f'  [matches] из кэша: {len(cached)}')
             return cached[:limit]
-        if cached:
-            logger.info(f'  [matches] в кэше {len(cached)}, запрашиваем ещё '
-                        f'{limit - len(cached)}')
         player = await self.fetch_player(steam_id)
         if not player or not player.get('faceit_id'):
             logger.warning('  [matches] нет faceit_id')

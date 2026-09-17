@@ -1,1 +1,4576 @@
-{}
+{
+  "f1e979d9-335c-4196-89f7-4b7655c63030": {
+    "elo": 2606,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "432956cc-6338-4d3e-95e6-523a2eb2d28b": {
+    "elo": 2559,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "58034cca-749d-44d5-a15c-70f570b17ad5": {
+    "elo": 2500,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "dd8a57c4-b0ea-4a83-946a-5e27ad8c1174": {
+    "elo": 2401,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "1b3f0483-96bd-4891-9652-d5a8da04a964": {
+    "elo": 2288,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "8641ee14-f6f7-4fba-adc9-9d36aaa28824": {
+    "elo": 2454,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "a598c380-3014-4bec-8e5b-feeecfc8de4f": {
+    "elo": 2510,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "a9bce895-4362-4980-8543-ae7c36e456cc": {
+    "elo": 2828,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "55c08b19-4974-4f85-893d-affa1e75a5bb": {
+    "elo": 2437,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "6bdd7e1b-6c5f-40e8-857f-605e16e6e089": {
+    "elo": 2559,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "02aedb16-3cf0-4b04-94c6-5c0b122933a6": {
+    "elo": 1942,
+    "level": 9,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "27c347f9-98da-4bf9-8ee5-02bc08da1680": {
+    "elo": 2027,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "238ac330-4cb0-4e80-9330-35bb0e068c2c": {
+    "elo": 1962,
+    "level": 9,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "770f4c12-451a-4127-b3ca-6846011c8ffa": {
+    "elo": 2165,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "b7722fed-120c-43e4-b669-1b15c9685391": {
+    "elo": 2100,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "37b19cc8-a5de-41d8-8747-a3c9be9e19d8": {
+    "elo": 2127,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "6595fb1e-5ac1-487d-b173-ae35741b02fe": {
+    "elo": 2056,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "57ef27d5-0e44-4470-af2e-13dcac5550ee": {
+    "elo": 2111,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "1974efb4-72c8-4f1e-84fa-c0f866472282": {
+    "elo": 2684,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "8c45eb40-5dd0-4d8f-ac11-02961e39613e": {
+    "elo": 2010,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "e71e6b6e-894c-4394-b0d2-e854efacba30": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "ef744eaa-5842-47a4-9ac6-2ca25a15dc53": {
+    "elo": 2310,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "d2633232-bf54-4687-b75a-05559b945fc8": {
+    "elo": 2072,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "192b21e1-977a-4ec5-ba38-a138f55194d9": {
+    "elo": 2632,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "86bd5694-895a-4093-ba57-19817b5a030c": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "fc3fe6eb-2e54-4f36-a2dd-3f5a887e20ea": {
+    "elo": 1966,
+    "level": 9,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "02279356-1782-4f8c-8c77-f6f8c74374c2": {
+    "elo": 2925,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "e0ad2a07-a2e3-4338-868c-0cb9725cc06f": {
+    "elo": 2111,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "76a4549d-5b0f-4771-bb43-3d6c460558da": {
+    "elo": 2566,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "71674cf8-982a-4c56-8e22-0a764995e481": {
+    "elo": 2190,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "57facd52-5da6-488b-b252-95498edd1cd1": {
+    "elo": 2327,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "ff938a9a-15a5-4193-a0d4-404cf0911ebb": {
+    "elo": 2296,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "720f7e6c-e74c-4426-90d0-ce8d38e661b8": {
+    "elo": 2624,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "2a2594c2-ee10-45f9-ad18-0d275f84974c": {
+    "elo": 1955,
+    "level": 9,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "bd5d42e3-8a1d-4a4b-a0a2-13b7d76de325": {
+    "elo": 2125,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "e3173e15-2e1a-4b64-bced-c4c41d6af28c": {
+    "elo": 2321,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "0aac6b39-4e0d-4c8b-a326-b268bc6555b7": {
+    "elo": 2468,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "f6dda435-eed5-4c68-a3e2-b80496b31da0": {
+    "elo": 2106,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "d0083283-97ce-4963-9897-5fbc96970946": {
+    "elo": 2414,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "566f958e-8c4c-4014-b5f0-77a16e8b3d47": {
+    "elo": 2421,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "166c8e07-de5d-4044-9242-7d23d4f44d76": {
+    "elo": 1777,
+    "level": 9,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "84c35189-d870-4240-92b5-910ecdf1ed95": {
+    "elo": 2089,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "505ebb8c-940d-4f17-94bf-fd4820b15d21": {
+    "elo": 2119,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "01d4b22c-d553-447b-b565-d96f951abf63": {
+    "elo": 2231,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "4c059d53-dbc1-4b42-94b8-507acc774732": {
+    "elo": 2100,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "f72f828f-5963-4902-a165-389fb26b54ab": {
+    "elo": 2214,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "9c7398af-f79d-47d3-ac49-e4e554fa640c": {
+    "elo": 2055,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "71851232-9b18-416d-a052-bf30099a9876": {
+    "elo": 2734,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "d067e062-8dde-4660-bc76-04130017e4be": {
+    "elo": 2532,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "6c1f4948-f0fe-45b3-915c-96c9ec2db02d": {
+    "elo": 1651,
+    "level": 8,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "06b6605a-339e-44b3-8ff5-e7410a5d4b49": {
+    "elo": 2149,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "66fa5102-ee23-4ed2-bafd-4d82b7c15e51": {
+    "elo": 2928,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "0a8399e8-0dd3-444f-abdf-a12025caecec": {
+    "elo": 1208,
+    "level": 6,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "e7d8a3b8-7e0d-4003-877e-243f203394f5": {
+    "elo": 2010,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "732ffa7e-7451-49bb-b581-db64e685e71a": {
+    "elo": 2428,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "90eb25b1-5875-4601-817a-d272b157aef4": {
+    "elo": 2685,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "ec7e908c-1da6-44bc-b7fc-f95f7ffa3342": {
+    "elo": 2552,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "9e44b246-a4c6-4c0b-bd80-97157a992ff8": {
+    "elo": 2723,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "5d735f6a-02f8-4120-82bc-5167c17465f2": {
+    "elo": 2583,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "c95765a6-53d2-41a1-90f3-45ceadadf7e2": {
+    "elo": 2303,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "340c65eb-d3d8-41a2-ae9c-c495b0fa4cef": {
+    "elo": 2552,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "e5185f21-3099-4d55-b0c7-73ae70fa3c38": {
+    "elo": 2181,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "f2b5dbb7-e166-41d5-acf0-a03bf46d66ca": {
+    "elo": 2486,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "d86b067a-a748-434d-8904-0edaa225cf41": {
+    "elo": 2794,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "745df0f3-c966-4040-b9e6-138e5c0d6593": {
+    "elo": 2768,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "4c0330b9-6d2c-4d83-97db-3355b7335dcf": {
+    "elo": 2481,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "10c98da4-0811-4e55-82b7-c79e8818c4f6": {
+    "elo": 2512,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "a17fc52f-789d-4665-b591-de806678b678": {
+    "elo": 2472,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "cdbfb256-257d-4fa1-8ff9-7d7219048f00": {
+    "elo": 2392,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "4bf2865a-21f7-4467-9c11-969c028b093e": {
+    "elo": 2450,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "f5035f72-b021-4c3f-bb3f-0088f063b9e3": {
+    "elo": 2539,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "142383a4-e9ff-4152-ad06-00bc752fec22": {
+    "elo": 2834,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "1cd6a664-4180-4101-881d-bfe268f9c369": {
+    "elo": 2752,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "0037f2fa-6292-4469-9bc9-f50e3bff6ef3": {
+    "elo": 2488,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "53485bb4-e522-4e83-917e-656fabc15a21": {
+    "elo": 2253,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "d48b5b1d-e258-4903-afb6-fa3b9927f2e1": {
+    "elo": 2164,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "85a1eaa6-1529-4287-8c96-c17b4a836cda": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "fa8382f5-a945-4be2-b870-95ddb4a210d2": {
+    "elo": 2984,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "a18f1001-1922-4efb-9cf2-f218477cb4c5": {
+    "elo": 2312,
+    "level": 10,
+    "winrate": 0.0,
+    "matches": 0
+  },
+  "a7dd9c5c-ceb0-434a-90da-c909077e3df0": {
+    "elo": 2637,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e24c7255-065a-45fb-83a1-dbacf6c8bdc6": {
+    "elo": 2522,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c4f3332e-257d-4f0a-9b0b-978023403ca0": {
+    "elo": 2416,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "eb1ccc2a-c85b-45a2-a61d-7e1d6bb24fb0": {
+    "elo": 2126,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "425e644e-1481-431d-a8a5-08cdaa42a4ec": {
+    "elo": 2455,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c43a69d7-26f8-41b8-93be-53caf9186213": {
+    "elo": 2490,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5e2c197f-26d2-4750-8e45-82bf4c1451c7": {
+    "elo": 2656,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d07d0c88-82e9-411c-a1b7-fa22f8a59137": {
+    "elo": 2696,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "83011f63-244c-4a07-8820-0c43d6e35b4d": {
+    "elo": 2113,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b12ac553-193f-496c-8d17-57bc68b5a278": {
+    "elo": 2673,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d9190a0c-1da2-45cd-9243-0712070d72e2": {
+    "elo": 2318,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "02ec04bd-a059-4743-b012-eb85405c181e": {
+    "elo": 990,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "9f746c93-969c-45b5-b29c-b07e9130987a": {
+    "elo": 2692,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "048d8cac-4cee-4187-bbc5-017b1e311fbb": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "5d4cd1aa-8e6c-4fbd-b1e1-f016f230e0ea": {
+    "elo": 2517,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8325937c-0d92-44ac-9b2e-560adf38ec45": {
+    "elo": 2340,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "34a56d57-46bf-4eba-b37f-63577d55ea10": {
+    "elo": 2779,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3fe6c891-3774-4bec-95a6-d418a2e90275": {
+    "elo": 2067,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8d493e07-8eab-4a31-87ee-25447fdada41": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "96adbc12-e2d8-4a7b-9d42-1641b385c94c": {
+    "elo": 2301,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "06080fac-5ce6-444f-bfc4-2e48967133aa": {
+    "elo": 2555,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "00818a58-96c4-43db-8c41-8703363a7418": {
+    "elo": 2371,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "48658ca9-8451-41f9-8345-164abf594054": {
+    "elo": 2871,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a2db7bc8-7b4b-4d8d-aa61-9f0160654a31": {
+    "elo": 1920,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "70acfc61-67ed-47fd-98e6-5105fbb01d4a": {
+    "elo": 2801,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "75796033-981b-4d4c-97bc-61b0b76e1e6f": {
+    "elo": 2379,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bd5e61ec-5f1d-4099-8002-6c02bfdad628": {
+    "elo": 2502,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c80455eb-f621-4153-bed7-68509344cc6e": {
+    "elo": 2343,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ca3512c5-d2f5-4109-bf8e-bdc5968a4d28": {
+    "elo": 2036,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "741e5638-88d1-409c-af0b-25f2d1d47b1a": {
+    "elo": 2410,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "dacbc262-23a7-4d1f-b503-1624bdd5cf76": {
+    "elo": 2738,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "2801cb3f-f772-4c0a-ab76-b06ccb6b1e88": {
+    "elo": 2026,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cf362c40-c97f-436e-a90e-30dc95923919": {
+    "elo": 2518,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "192e1b63-b7fe-4641-bfc2-9854e30758af": {
+    "elo": 2503,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "36ccab7c-cc91-4968-b55f-c0783f125c40": {
+    "elo": 2515,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "84d2ede9-920a-4033-8bc1-6e0fbb37325e": {
+    "elo": 2770,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9e306942-2e9c-4d4d-8cbe-4f2bf5b71bf1": {
+    "elo": 3018,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "92431ae2-cddc-471b-a74a-46fb34cad8be": {
+    "elo": 2464,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "74ddf16e-d887-45e4-ad77-d1326298e108": {
+    "elo": 2331,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6d337eff-7ea2-415a-bd1d-b3e4b5631d84": {
+    "elo": 2594,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a37bdc8f-897f-409f-9088-2c0e40d1cb0f": {
+    "elo": 2273,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6d2bce17-24a0-4a7f-a00a-16f014628aba": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "200459e5-259e-47a1-9ae0-971bb6c1935f": {
+    "elo": 1793,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "a6908ddf-f695-4167-85fc-4add24ff708b": {
+    "elo": 2402,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7c946d67-bdc8-4522-936a-5f08d629f256": {
+    "elo": 2178,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7d6d2250-f0d8-42be-bce0-c05cdc564212": {
+    "elo": 2170,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "29c7747a-c364-485e-a749-683dd4dea7b5": {
+    "elo": 2330,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ae100f71-0f8a-4fd0-a710-a5d80937fa72": {
+    "elo": 2676,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "59b83084-2048-48c5-b6a0-d979b2b9181d": {
+    "elo": 2416,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d4786476-b0d5-411a-9753-a7e918bac5e3": {
+    "elo": 2463,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d1be96ae-b906-4726-9b18-0f57c9390a34": {
+    "elo": 2462,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7f359fc9-909f-49e9-9df3-5e6e7b05dfcd": {
+    "elo": 2343,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "57100e87-1779-471e-b6b5-d9ab7b174b26": {
+    "elo": 2363,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "13e33134-dcfc-46b5-b800-c72f6ef187ba": {
+    "elo": 2323,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "97c155c8-5d00-4c5e-ba27-6943a0867daf": {
+    "elo": 2395,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5a95e6fd-8c01-493b-9b24-31bf29624367": {
+    "elo": 2303,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3b6d2b77-cb2d-447e-bf4d-ca374d240ade": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "5d5ccc13-6cfb-4c50-b98f-e36ffeeba4a0": {
+    "elo": 2447,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a9b28daf-ec0c-4a9c-85ab-aa18ea583b6c": {
+    "elo": 2455,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "24132336-e1b8-490f-b752-b55b253e1d76": {
+    "elo": 2464,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "308c14f9-f785-40aa-be0d-60de678e5f54": {
+    "elo": 2363,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c3221d6f-828f-4bc9-bb67-561d6d95731e": {
+    "elo": 2424,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "76363c65-e2f5-48fa-a31e-9ae57020ef97": {
+    "elo": 2628,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "642d6faa-cf76-4203-901b-556725c4c5ad": {
+    "elo": 1873,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "544813d7-3b2d-4781-87ea-d9ee4ef74013": {
+    "elo": 2761,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f4263746-15fc-4b95-a277-93e995ed2808": {
+    "elo": 2644,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7553c8c4-73d7-4b50-a779-1517366815fa": {
+    "elo": 2264,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "140edf9c-88c8-4154-bf42-31a6a9a97e31": {
+    "elo": 2401,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c2b4d860-8f04-465a-b56d-4e2c8e8413d0": {
+    "elo": 2490,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "05a693f8-4342-43fb-8d58-d96109653ab2": {
+    "elo": 1946,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "57f3a598-9d9f-4500-a30d-c4c117e425c8": {
+    "elo": 2423,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e5aa3e40-7349-4c7c-b0be-d26c6a854607": {
+    "elo": 2296,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b1bd07b1-e83a-4dba-9b69-9ce99a7d863b": {
+    "elo": 2436,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "2254135c-195e-485d-b844-99d06791c28a": {
+    "elo": 2400,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "45ea69c1-e13d-4422-8347-a348b2f82898": {
+    "elo": 2152,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b4ce2f81-b480-481a-b056-efc422b43f7a": {
+    "elo": 2360,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "da74c96b-2c3a-4e2c-b345-63cb805a1667": {
+    "elo": 2249,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ce0dbd1c-a46a-4a8b-bf19-1503165092b0": {
+    "elo": 2427,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1dd81752-0839-4660-83cb-3f2555562008": {
+    "elo": 2749,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "36197d21-473c-4a93-b838-69a296ead9eb": {
+    "elo": 2480,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c3708480-2856-4a2d-b6d9-a29b7d0d7428": {
+    "elo": 2394,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4da09cf6-2271-4e9c-ab49-c659b4c9b665": {
+    "elo": 2338,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fb44c18e-1c6e-4fc3-918b-800010d121ca": {
+    "elo": 2321,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "971650cf-25c1-4c81-8f41-bd1a4e6c3a7b": {
+    "elo": 2590,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "362eb5ff-ddf7-40c0-9611-fd4c126b5c14": {
+    "elo": 2438,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "71455854-492b-4861-8b0d-c3542f215666": {
+    "elo": 3168,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "35647e1a-c898-44d7-b8b0-5e73cb6aa951": {
+    "elo": 2567,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4b1315c7-0f79-4921-adbc-fb766955afb1": {
+    "elo": 2372,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a74313aa-3043-47d5-9519-3c9029177508": {
+    "elo": 2437,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "83c45954-bdc7-454e-b4b1-3851d4f37e07": {
+    "elo": 2372,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c1215128-c535-4c86-b426-0cfda32f895b": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "8d02faaf-6de1-430c-b17c-e865ea3b7320": {
+    "elo": 2801,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4eed8175-7a6a-4a99-afeb-57da6f6b4c2c": {
+    "elo": 2348,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e7fc7bdc-c404-4cce-889e-3d051fd68dd9": {
+    "elo": 2404,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "694c012f-673a-4c41-9676-052e96c6cded": {
+    "elo": 2685,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5b2da7db-9faf-480a-808f-dc7ebb25b305": {
+    "elo": 2561,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0cd96c3a-cc5c-4e78-b427-06e0bd72c295": {
+    "elo": 2270,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "639840c5-f13c-4ec9-8f95-f59e8808d6bc": {
+    "elo": 2463,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8791766e-5f94-4e89-bc14-edf4a49772ff": {
+    "elo": 2418,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "87c8bcd5-ccd9-47f0-b54d-28a9c9af4e52": {
+    "elo": 2367,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5a0bc438-c662-4ac7-a6f0-01a46206aa8d": {
+    "elo": 2449,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4481d67e-5630-4b02-8466-4c5b7d33bab7": {
+    "elo": 2620,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ebdcaba2-c0e0-4007-8c8d-c0bddb710746": {
+    "elo": 2510,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "645ff3e5-174e-45fe-96c4-e4177f6655d0": {
+    "elo": 2366,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5470cd55-e901-4ac8-80c3-754d130811ab": {
+    "elo": 2245,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fc35c4ab-0953-4229-88c6-633b3221a1b0": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "ea16bbb3-78d0-4004-afdf-59967b82652d": {
+    "elo": 2607,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bbfa4e55-26ea-4157-a712-cbae87f0092e": {
+    "elo": 2476,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c58bf554-489c-4ee1-8548-e47085d3e5af": {
+    "elo": 2171,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ff876c13-7a58-4464-bd22-4fb37080db03": {
+    "elo": 2568,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "203514b6-8aa8-4d86-86bf-1be94d8d001b": {
+    "elo": 2405,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4dd6c8cc-1ad8-444f-a377-079d5b1112b2": {
+    "elo": 2610,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e0b847a3-2dda-434a-b953-af338798ed50": {
+    "elo": 2215,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fca5ac7b-3bde-4ac4-aceb-1b6226c15618": {
+    "elo": 2499,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b6d7d99e-c223-4916-b2d8-34f6ff372c40": {
+    "elo": 2581,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b791bc76-4509-4236-ba09-5d46188c6529": {
+    "elo": 2486,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "2a01ed3e-5275-4098-9cdc-28d7187bc32d": {
+    "elo": 2613,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c974d97d-224f-4f3d-90e0-0b1e171678e7": {
+    "elo": 2002,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "62eeb4ea-2101-4edb-b6c7-ffda2826fd72": {
+    "elo": 2397,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "2b040b9d-9b87-4108-8bd7-b5381a174092": {
+    "elo": 2366,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "45361998-b613-4435-8989-ae56ebeff131": {
+    "elo": 3264,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "84caaedd-7c56-40fd-a7ae-ad19dd3a4cb5": {
+    "elo": 2298,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f5a41300-8a0b-4187-94de-3b7bb2cfbd94": {
+    "elo": 2292,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7af1e164-7c3a-42b1-adc4-219877e90133": {
+    "elo": 2616,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c47a0a7c-6184-4a63-902f-26f83a7c1cb5": {
+    "elo": 2655,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "68869c1b-e5ab-4de3-955a-5f7bbc0b2e19": {
+    "elo": 1641,
+    "level": 8,
+    "winrate": 0.0
+  },
+  "81e76a53-6b04-4df9-9fa1-d818fb21e9a4": {
+    "elo": 2695,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7f26f8c5-fc4d-4c47-a79d-ebe80ebd33ab": {
+    "elo": 2543,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "318df208-f22b-43ce-9046-b9ca82a45a46": {
+    "elo": 2332,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1d0e0061-faab-413f-8550-2e95ef1a890f": {
+    "elo": 2403,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "75fa698c-a695-4f8b-9903-7ed5097e8c29": {
+    "elo": 2678,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9e2d42a0-43b5-43bb-977c-a411e39b617f": {
+    "elo": 2493,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cf5ae20e-ffbc-44e6-9da4-ebc9d2ab0782": {
+    "elo": 2512,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9bbbfe27-5b08-4b42-a6cd-2b0fd3d10ed9": {
+    "elo": 2552,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "16562ba6-583d-4d32-a4e0-5857d90a4dbf": {
+    "elo": 2490,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "84d7cda1-95b6-40fa-8024-a90f61cb9240": {
+    "elo": 2290,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b936f0dd-c81a-457e-bd6d-de1428b82ab5": {
+    "elo": 2634,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a70acede-faa9-4595-b65e-1792f98625c4": {
+    "elo": 2460,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "eaabeea3-c155-41f3-935c-e23d871f37d2": {
+    "elo": 2351,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fc971aa1-212e-4460-8423-07b4e340a322": {
+    "elo": 2551,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1fab1d07-3bbd-401e-b9fc-e37268747944": {
+    "elo": 2576,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "15374c72-9ab7-4dcf-aa92-39272810379b": {
+    "elo": 2641,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a147faa2-625e-42f1-bae6-3e6f0c4444c5": {
+    "elo": 2648,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "01e1a468-8e9f-44a1-b64d-acbf36df7c8d": {
+    "elo": 2604,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3998c65e-d5c7-497e-9a8a-e6629d7451f4": {
+    "elo": 2221,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5f0cbaf0-03aa-4600-9cad-56d53ff2cba2": {
+    "elo": 2398,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a9e389dd-6753-47ef-90eb-e72cc4d27922": {
+    "elo": 2358,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "2d2af54d-c191-4bf7-b4f6-76a7731a072c": {
+    "elo": 2450,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c17d5c32-b54a-44c1-ac45-2ff95449d194": {
+    "elo": 2323,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8dcf92b8-6a7f-4eab-a11e-20a241de5824": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "658d048f-503c-4b79-807d-8dfffc099a1e": {
+    "elo": 2629,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c5e55e33-619f-47ee-b219-469f602ea06f": {
+    "elo": 2436,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "372d5b44-bbcc-4dfc-82a7-99cbd2941492": {
+    "elo": 2592,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7e3992c4-a526-4931-96db-9c69ae6ea1ff": {
+    "elo": 2183,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fa468655-1d29-4b3e-9668-43bd4e258ddd": {
+    "elo": 2504,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3016672f-813f-4ec4-bf39-873f9bb07d9f": {
+    "elo": 2378,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "55f2046a-bdb2-47e4-a82a-fac5a6f3e88f": {
+    "elo": 2461,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7e990061-c96b-477c-b1df-5d25f5ba7d45": {
+    "elo": 2762,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b8b6d4bb-8730-4cb3-b47b-60a98b76f3e7": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "bad484d8-e270-45f1-a958-b746e9e53518": {
+    "elo": 2005,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b3be78cb-d9d5-44fa-8d06-21050fd91b0b": {
+    "elo": 2803,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "939ae5a2-5fcd-481b-95db-32c8dc3cf75b": {
+    "elo": 2492,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "40bb59c6-c29a-4e82-b428-6f8cfb1ce148": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "231b7e3a-9ad8-4bb2-a5b8-cb93411d48f5": {
+    "elo": 2806,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ccc04e4b-ef04-47dc-bce8-0e58ef7d025b": {
+    "elo": 1043,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "bd58169f-80cc-48b7-9fb0-d4991f6d8317": {
+    "elo": 2332,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3bb43700-1455-4ade-af1e-859ae3f49107": {
+    "elo": 2383,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1fd2f240-a534-4dd4-a57d-476a65c8508f": {
+    "elo": 2009,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e4736b4a-ca2d-4fe4-92b3-7f158692b01a": {
+    "elo": 2837,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7910df7f-a883-4428-9874-71c0457c2b78": {
+    "elo": 2494,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f253cd6c-c839-4318-b6e2-6807bee1fd7f": {
+    "elo": 2234,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d2b5f97d-b865-4a70-ad51-7b1117e0c99e": {
+    "elo": 1836,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "d3119d93-909b-43f4-a0f0-ff34cefebbbf": {
+    "elo": 2770,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d77aa3b3-d852-4edc-bbca-26cd7e7e1ff4": {
+    "elo": 2538,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "868538c9-8ba1-49be-a3f0-99a18377bf49": {
+    "elo": 2600,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e9a0c67a-80a9-445b-9a88-d235f35fceb9": {
+    "elo": 2668,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9497c332-21c9-4e78-b230-504a31ab049b": {
+    "elo": 2332,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1dc0a618-8ac9-4786-a4bc-06a3ac4793b9": {
+    "elo": 2717,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c8aa206c-e056-4b16-bb9d-ac329946586a": {
+    "elo": 2133,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "94c53907-de2f-461b-a06d-371cc09c1d0a": {
+    "elo": 2460,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6f3f4d5b-f6f5-4305-a12a-92f5b67e11b1": {
+    "elo": 2610,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8233b7bc-e909-4116-82d2-427b1dfdd888": {
+    "elo": 2778,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "61ab3c25-7b0c-4a16-bc1c-dddb9c543e18": {
+    "elo": 2694,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9e4132cc-0424-4144-93f1-38243c5d479b": {
+    "elo": 2620,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "235c1e1a-d89c-4635-b208-36a8300a7274": {
+    "elo": 2527,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1c0a4764-6174-4489-a294-0bcf1b702808": {
+    "elo": 2105,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6691f6ec-39c7-4bb6-a6bf-b35366809e03": {
+    "elo": 2616,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f63f4f64-3308-4fb2-8627-743ed81b8581": {
+    "elo": 2223,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "da04b36a-e2eb-4049-9946-ba7c4baac948": {
+    "elo": 2420,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3803b54c-000f-4e33-8ef4-ecb45d440fca": {
+    "elo": 2600,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5185ac5f-5b1b-4c00-9b47-9e7f4165a43c": {
+    "elo": 1057,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "fe57cfac-b71d-4629-a014-36a5dc13b5da": {
+    "elo": 2268,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cf733545-2b07-4bf6-899c-c17f90dd0105": {
+    "elo": 2349,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "053bcc24-2e22-44f8-85d8-374d06e6abb5": {
+    "elo": 2264,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e39641c0-16c0-44b8-a2f5-689d399b9f5a": {
+    "elo": 2629,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1f31312a-03f9-4314-99c4-dfa5b631106b": {
+    "elo": 2307,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "82d26e95-2849-4c68-85df-6d977f89f5ae": {
+    "elo": 2145,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0a32a156-d290-4159-89dc-d38c8ba7634d": {
+    "elo": 2511,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "33888c45-93a9-431f-ae14-37faadbc0bb8": {
+    "elo": 2793,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "969cd57d-6051-4601-b9c6-7684740ff6b9": {
+    "elo": 2748,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7bba68e9-7fb5-489b-8ae8-fecbc0c8b61f": {
+    "elo": 2344,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "89c24cd3-7058-4836-9f81-86f8c9e17e2f": {
+    "elo": 2127,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "464bae51-515f-449b-8d30-058370051127": {
+    "elo": 2806,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fe18e6a3-b1cb-440b-a35f-2cac16e648d3": {
+    "elo": 2914,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fd8808ae-802a-4939-a1eb-c2960d5b9fb2": {
+    "elo": 2550,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3bc970bd-cf60-4f57-b81c-4cf3cdc393b8": {
+    "elo": 2554,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "49f31300-455e-454b-b480-a490a9d6bab6": {
+    "elo": 2919,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "be5b6f98-1939-428e-aec1-abbf108e18d7": {
+    "elo": 2524,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "238d896b-0480-40bd-9595-5dcf7c628c90": {
+    "elo": 2893,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c0417108-d3b8-4609-9f42-d9f84ffc10da": {
+    "elo": 2679,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3d232887-4771-41c1-9162-a1de1bd66ebd": {
+    "elo": 2712,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "43362e14-1719-443a-878e-e2cd0573ecaa": {
+    "elo": 2451,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3334cd0d-c3a0-450a-aea3-69c3c970dbbb": {
+    "elo": 2765,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7542e021-8ed0-4d0d-8072-bdcffef8d215": {
+    "elo": 2414,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fbe23ee0-79ea-4f44-8e40-49f41b74cd49": {
+    "elo": 2593,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bbdc1a5d-f037-4202-bc0f-6779366f38d8": {
+    "elo": 3006,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "180bae47-457b-49cf-b4e6-2e51dd0c9eb9": {
+    "elo": 2520,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "50cef59b-d240-46d7-91a2-94f8275ecae8": {
+    "elo": 2988,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "49ce5d26-69d4-4643-afe1-f0ffd75f9f99": {
+    "elo": 2304,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "19229f64-88ea-42dd-9194-dd9aa6b10c8f": {
+    "elo": 2153,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "883870be-2405-4bf8-b833-d3e47733dd45": {
+    "elo": 2336,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "624fd560-8bd3-48c6-a449-b75a17c3ce76": {
+    "elo": 2221,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bb06f7ef-4460-4066-8fda-4c76aae0d1e3": {
+    "elo": 2867,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9ab9eb47-0aa6-415a-b7bb-e8e43221e4c7": {
+    "elo": 2328,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "112e27fb-aab5-4116-a9d5-4a0fa9d10171": {
+    "elo": 3054,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a8627382-b901-42d0-b9f9-e6bb6878acc6": {
+    "elo": 2540,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "abaf0643-bacd-4c48-ab89-8acba823db29": {
+    "elo": 2251,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7e9b351b-46a2-4c45-b56c-9a469b48787a": {
+    "elo": 3086,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "790a2113-6989-4c1f-9635-87da188de0f9": {
+    "elo": 2941,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "031e9a86-42ad-41ee-aecc-13e8d3296c09": {
+    "elo": 2897,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1a3cab3b-7869-4ad0-9e3f-ee62a22ab661": {
+    "elo": 2690,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cad91609-f730-4120-91e1-b9752e75610c": {
+    "elo": 1243,
+    "level": 6,
+    "winrate": 0.0
+  },
+  "a4ea7ff1-dd1c-47a0-b80b-985a84114dcd": {
+    "elo": 3105,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f1558282-a841-4c08-897c-8778747d56d6": {
+    "elo": 2810,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "71a92f97-ed88-4ecb-a740-1c17a92c134a": {
+    "elo": 2900,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "796f80c3-cd2b-40ee-b05c-157b8cffb951": {
+    "elo": 2330,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cbc37c60-01e6-421e-a4a2-a3bbb1ee24b9": {
+    "elo": 2404,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "05bc9528-0a01-44e1-800a-bd35467155c5": {
+    "elo": 2772,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d44b935f-ba05-40ff-90dc-342852bf73ff": {
+    "elo": 2887,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "39bbc5d6-bf67-486c-a8a5-8c34f8a808bb": {
+    "elo": 2436,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ba406f3e-bda5-4a20-8bb4-053204415aba": {
+    "elo": 2513,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bee287c2-faf0-4301-b8f4-11e6f5fb7602": {
+    "elo": 2798,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9cae61f7-e4d7-48ca-ad0c-c107692eb80b": {
+    "elo": 2552,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6f1a21b5-b55b-4069-960c-afda4b05d972": {
+    "elo": 2288,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "800be7e9-e499-4b39-829e-98e93b9da0f0": {
+    "elo": 2355,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "478fe1c3-175d-41f2-b982-7c1bf99cfe75": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "0947bc42-8a22-427f-9198-170502a763b9": {
+    "elo": 2037,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4f248dc6-45ce-428d-bcc3-a39f25dcf3ac": {
+    "elo": 2381,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d26be539-a3d8-4c50-9f5f-e70054492561": {
+    "elo": 2643,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b40555d0-8f85-411d-8215-9e694d7ac8ac": {
+    "elo": 2232,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7d2667dc-77ff-40ee-a5b9-f14606c080ba": {
+    "elo": 2318,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f0d966b7-d1f7-411a-b0dd-494d5878c08b": {
+    "elo": 2616,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "83c858d0-e9d4-442a-ad78-edabd5fc2642": {
+    "elo": 2409,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3b477cb5-7dea-433d-b76f-dd1de7c8755c": {
+    "elo": 2611,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "012541ba-549c-4db7-9637-1f4b9f2e7614": {
+    "elo": 3122,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "320d19b4-78b1-418f-9a19-1278521a2083": {
+    "elo": 2793,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4036793b-4c90-4922-9a71-ffa3a12a83ef": {
+    "elo": 2485,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d31687f5-3013-42f4-890a-1d678cdc9d35": {
+    "elo": 2900,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a7146d0d-233c-460b-81ac-97f2b5dcd91c": {
+    "elo": 2592,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6cd8c0a7-5a4b-4e01-83a5-b333a6117f11": {
+    "elo": 2467,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9af57aab-7d51-4b4d-a46d-8fbee3598705": {
+    "elo": 1093,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "4a88fa4f-fba5-4ce6-aa22-4f2de0b4d9a7": {
+    "elo": 1696,
+    "level": 8,
+    "winrate": 0.0
+  },
+  "f2ee35b5-5150-4abc-8229-517ffd506bd8": {
+    "elo": 2603,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c03d763d-5c56-4922-bcd3-495c46a777fa": {
+    "elo": 2575,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "00f73513-26ec-4459-a768-5d3a6049862e": {
+    "elo": 2596,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e3537a05-8e74-49f9-9e9a-52b0148aae47": {
+    "elo": 2617,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "897ad09e-462d-4dcb-9fe3-ea4c36f85a25": {
+    "elo": 2650,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "da9f3799-e442-44b9-8418-34478cc798e6": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "7d530e68-4d54-4d7f-a2e4-35d4125f0360": {
+    "elo": 2525,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e732bf71-7c57-4bed-93b9-2eccce64a6cd": {
+    "elo": 2137,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "abbb4e44-df6d-4d79-b8d9-82dca16080cf": {
+    "elo": 2367,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c2684cc9-211f-4b95-b76b-561b6794c0f1": {
+    "elo": 2687,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "af766c0d-59f1-496b-8cbf-2b0f520faacd": {
+    "elo": 2521,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8251b3b1-9129-42dd-909d-77e5dab189b8": {
+    "elo": 2215,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e6236c57-4981-47d7-9fad-e3eb236b93ca": {
+    "elo": 2751,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c0794f0f-c2e4-4bfd-bf32-15b58879cd8b": {
+    "elo": 2492,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d58729a7-14a1-443a-b421-6272a1b23e02": {
+    "elo": 2463,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e7fd3c03-96fe-460d-a7f8-e0134042d750": {
+    "elo": 2211,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a79a5e10-3e89-4010-bc73-7c607924d0a3": {
+    "elo": 2468,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1e919762-3d31-45fd-88b4-c13cbc48370d": {
+    "elo": 2213,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7056f95f-c199-4bf8-ae2a-f15069e77714": {
+    "elo": 2340,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7a308b6e-3ad6-4a2a-8d44-d18c478d6870": {
+    "elo": 2971,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "750ee122-3904-4a49-a006-05b315a3a81d": {
+    "elo": 1035,
+    "level": 4,
+    "winrate": 0.0
+  },
+  "3cd855ad-1479-4360-b9dd-8e6c9afcc523": {
+    "elo": 1455,
+    "level": 7,
+    "winrate": 0.0
+  },
+  "457c0b41-02e1-42c1-8944-9236364f8c5e": {
+    "elo": 2595,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d5ec7c3f-614e-4f7f-949e-28f099a7d2c2": {
+    "elo": 2245,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "14345021-6e42-446c-abbd-759d4feca2a7": {
+    "elo": 2830,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3ffb6699-d97f-4f2c-b311-d2bc330e261a": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "c285b500-b88b-40be-bbbe-b2c025a434fc": {
+    "elo": 980,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "07754ad3-417d-40e4-88cf-25a02876503f": {
+    "elo": 2711,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3018830e-09f0-4e51-86ab-eeb119cd9549": {
+    "elo": 2768,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cc38825a-f67a-40e9-8392-36ef81102d65": {
+    "elo": 2517,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6b97a8f8-a371-4545-84b3-60585807d403": {
+    "elo": 2717,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "66db4f1a-be86-4af2-a9bb-41a770d0f35d": {
+    "elo": 923,
+    "level": 4,
+    "winrate": 0.0
+  },
+  "aec4574b-d401-40ab-9c5a-d55f41c1cd83": {
+    "elo": 1916,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "a75e9544-968b-4c7d-bc30-3ab2879f77fa": {
+    "elo": 2716,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "113916c3-5956-447b-a7c1-5aa533fb8fc7": {
+    "elo": 2663,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f0322d45-c3db-4c8a-85f1-0e582a535d7a": {
+    "elo": 3101,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "858f144c-d39b-4e6c-9927-16686e534f38": {
+    "elo": 2504,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f42e5ce0-0490-470a-9424-5ea923a5f975": {
+    "elo": 2711,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "95192ceb-19ee-48ff-87ec-aff18485f32b": {
+    "elo": 2651,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "2cd10e9e-e760-4145-97e8-51c494914c65": {
+    "elo": 2588,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6004db96-b8a8-4659-b14b-a97b6f3fd02c": {
+    "elo": 2807,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "812c451c-082c-4da3-8caf-a7587ad417ad": {
+    "elo": 3106,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "be102d54-5290-4e83-a0ab-7ac4c7d52495": {
+    "elo": 2934,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1a1c26fd-1f8d-462e-b468-ff62fa576784": {
+    "elo": 2774,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4a45ee1e-1b99-406c-aedc-a1bb9c04c64b": {
+    "elo": 3442,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "68a5784f-621c-4f62-9a5d-999814b9c367": {
+    "elo": 2515,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "69b77041-c438-448b-be2d-549d019b1de9": {
+    "elo": 2645,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fdafe733-c8f6-44df-acf9-d524349bb970": {
+    "elo": 3164,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0fb04799-b2d1-41ba-af69-ac0a5672f506": {
+    "elo": 2888,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "59ab5a12-0076-4fc6-af13-3fb3ad3260c2": {
+    "elo": 2897,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cdf509f2-3a59-41d3-aa03-f19d4a0cf6bf": {
+    "elo": 2391,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "02402b03-2196-424a-9fd7-4eb66f73b8f5": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "f89f0f69-4338-4230-a50d-311635ba9274": {
+    "elo": 2450,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f2c57041-3111-4692-9462-092315a9eb37": {
+    "elo": 2931,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1b39acca-862f-45b6-b814-ebec2998e016": {
+    "elo": 2484,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "acf6f1d6-f761-414c-bf75-0a22de32f8a2": {
+    "elo": 2324,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a1365a56-f590-48cc-b12b-1b7e68a6e1d3": {
+    "elo": 2580,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7a71f2a2-c359-49e4-990f-fc5a7d493f2a": {
+    "elo": 2850,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "60e6d737-8e4e-46b8-b138-0270a881ef8a": {
+    "elo": 2494,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0d80e5e7-19f1-4ecc-9fe4-3dd2214893b2": {
+    "elo": 2511,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c8f31122-f975-4c70-ad17-41e1002e36d6": {
+    "elo": 2113,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "be62980a-d163-4143-9a02-8b461e50f184": {
+    "elo": 2727,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "43efea8e-66db-4c37-a8db-7836a4d62495": {
+    "elo": 2320,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1bcd36c4-6c01-4646-bd4a-32085ae4a120": {
+    "elo": 2301,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9fc7524c-14c7-47c5-b765-db5ab5f201de": {
+    "elo": 2833,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "09c4b40e-f641-44d4-867f-d9db88d35190": {
+    "elo": 2910,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8f9d02dc-84a2-4a17-b9e3-f830d199d5d6": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "09ea2cdb-89d4-4846-bd75-57f280cba7ba": {
+    "elo": 2538,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f002cb02-cbb1-4fdf-a87b-9e24133670a5": {
+    "elo": 2655,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "abbf9514-9728-44d8-8ed2-bbbcf5500cfb": {
+    "elo": 2006,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c85acb55-17f3-42cc-8ff3-75753d74fcdd": {
+    "elo": 2728,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "716ff4ef-a043-440a-ac6d-5ba36f84ef36": {
+    "elo": 2423,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "db3a1c20-385b-4182-9fa0-0b112af59386": {
+    "elo": 2677,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "492e9856-56de-43ba-809d-0b4d4cc9a024": {
+    "elo": 2374,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a0e2144d-e398-401a-94dd-3a4b7a8dcb16": {
+    "elo": 2935,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "254c2fe6-8c5c-459e-9924-e7b138e2c161": {
+    "elo": 2301,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "483232a3-cd2f-42e9-ac53-345d8a000bcf": {
+    "elo": 2269,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3f89aa1d-9f2b-4086-93d4-5e2dfc6fdbf3": {
+    "elo": 2052,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e3ba3640-8cb8-4b82-8f24-51d9c93cd365": {
+    "elo": 2194,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bb8f2acd-a871-4fb1-87d0-49ebee1237e6": {
+    "elo": 2534,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5856128f-c23b-47cd-9879-ebc3dc7a8a64": {
+    "elo": 2316,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "174ee588-7df9-4594-9270-eafe3add54d8": {
+    "elo": 2689,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4a9223e4-fd8a-48dd-814f-281460d67a3f": {
+    "elo": 2692,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "91ee870c-3883-446c-a8b4-40d21d93d711": {
+    "elo": 2737,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5297073d-4478-4805-a56d-f61b6f48e3f1": {
+    "elo": 3011,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "eacf5e37-bcbe-4a18-a2f6-1f3869739860": {
+    "elo": 2853,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5c8890ae-00eb-4f90-90d5-1bb0d1b888cd": {
+    "elo": 924,
+    "level": 2,
+    "winrate": 0.0
+  },
+  "166d80fc-3ca2-4ca8-84b8-f1dd12525116": {
+    "elo": 2247,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5ab0a660-335f-4ee9-b646-0f3191af6768": {
+    "elo": 2446,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "df8928b6-76af-416f-9f45-665d65304320": {
+    "elo": 2359,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8f9220b8-965b-468f-8255-0554603f07c7": {
+    "elo": 2299,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "44062fdb-9303-4659-8680-402e0bedf761": {
+    "elo": 2716,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "621b6ef6-3a8c-40b1-b070-e9f7fb9eb0ae": {
+    "elo": 2766,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ceb2407c-51ac-43ac-93fd-50aab5a4f773": {
+    "elo": 2469,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d1f43732-3047-4c32-89f1-1aada0417176": {
+    "elo": 2609,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "09963474-5132-47e7-8d58-ce4042438567": {
+    "elo": 2496,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a6c89eeb-b21d-4821-b3b8-bd72420cbae5": {
+    "elo": 2419,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e6065562-d7ab-4943-aa84-9c34757e2b6b": {
+    "elo": 2289,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0b0bef38-0e09-47d2-a358-f00d853fb400": {
+    "elo": 2813,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "23966fb2-64d5-493d-b6e5-fc79bf2d9887": {
+    "elo": 2472,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ad573630-5f67-4999-a14c-dd26c74c5500": {
+    "elo": 2258,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "84238666-2a41-433f-9481-e4131451938c": {
+    "elo": 2938,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ab9b4c1c-b0d3-4ae9-b7c3-2e153ee05db5": {
+    "elo": 2753,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0d49a51c-7de9-4f3a-a96c-14f925cc1930": {
+    "elo": 2565,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "70ee638e-4509-4f6f-be00-3a9c3a69b566": {
+    "elo": 2543,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "36a37ace-3f56-4421-8730-ec699126bed5": {
+    "elo": 2744,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8d8a2f6d-0db0-47dd-9174-e48f9df5000d": {
+    "elo": 2775,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "853edb15-0ce4-498e-8dd1-aa6d29b8e7eb": {
+    "elo": 2942,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f3f57559-771b-40dd-b582-b1e73d70a420": {
+    "elo": 2662,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b811e16d-cb2f-4e76-8e33-4d0b4130a28f": {
+    "elo": 2663,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b1383af9-df88-45ac-a1f7-ff65f0ce4a90": {
+    "elo": 2580,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "2d27f5ef-1911-4794-bd42-5ce5e922d86a": {
+    "elo": 2894,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "157fb075-20ad-43ab-9a9b-a6efa232e407": {
+    "elo": 3165,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "239e299d-5625-437f-b10a-7063b78a141b": {
+    "elo": 2883,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7df81044-0ef4-4858-a179-68c07cf964aa": {
+    "elo": 2992,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a04eac39-3360-4683-8079-ef348a45f7fb": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "0bd3422d-91df-40ef-be3b-a2c5b7b82784": {
+    "elo": 2841,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fa3a3c1a-16f0-4d3e-9f38-e68c92393e8c": {
+    "elo": 2641,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ed465805-01ad-4d72-94bb-41d786d18293": {
+    "elo": 2781,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f19aeb5c-bc05-435e-ac77-4c99be71bf66": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "e16546dd-2ebf-40ff-afd6-b84f273610ad": {
+    "elo": 2698,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7cdf00d1-21d5-4d20-b2e8-381803239e10": {
+    "elo": 2393,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f15a04c6-b51f-46e6-ac13-b3b03d9e9242": {
+    "elo": 2690,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "628700e6-63a6-4787-a349-767fd1875a51": {
+    "elo": 2376,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f0f3bea8-a3e8-4002-a03a-34ae11dc6873": {
+    "elo": 2242,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "294ac4bb-5bcf-4227-8373-5bc7b02bab4c": {
+    "elo": 2652,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "96a7499d-4106-4639-bc71-7aee9da85475": {
+    "elo": 2488,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f095a78b-56b9-4003-a1f8-fe76eb614666": {
+    "elo": 2722,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a6c0bdba-fe64-48d1-b723-36cf262f9b51": {
+    "elo": 2533,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b061c0ae-d404-49a2-8d08-db799e1a4fe9": {
+    "elo": 2509,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "71cfbd72-2a06-4ebf-8134-12114d4fb9c3": {
+    "elo": 2374,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1636af50-ebeb-4998-b5af-858e7875585b": {
+    "elo": 2332,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d083e2e3-f061-4217-815e-c404d46e94c2": {
+    "elo": 2666,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d2098dfc-75e5-4e43-b3d9-4afa323f69a2": {
+    "elo": 2731,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "dff101f6-33ed-4f1d-a98f-53bb2650e2e9": {
+    "elo": 2598,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "db6f5ba8-262f-468d-bfa8-bb29e78d6a0c": {
+    "elo": 2923,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1255a9bc-e93d-407f-83f2-aa96407c5674": {
+    "elo": 2736,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f5a3a249-efd1-4190-91d3-52a5b0355097": {
+    "elo": 2838,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0313d5ac-2bd0-46a4-80a4-9e217493b3cb": {
+    "elo": 2331,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d4a95155-dde7-4bbb-aa22-3a62efc27b03": {
+    "elo": 2564,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "aae60951-64a2-4cd2-912d-cfe98a4aa5f2": {
+    "elo": 2721,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "38d5dd5b-7655-4f6e-a622-dd2633ba12ad": {
+    "elo": 2780,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4ac56b7a-bb81-4a8c-867c-64eff3d1719d": {
+    "elo": 2498,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a5b485d6-4f44-4ace-8ba8-e047a8d3e0bf": {
+    "elo": 2742,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a8473244-c67a-4e00-abf7-381c1da2c817": {
+    "elo": 2543,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9c1243b1-ce01-4123-bdc6-41d96d266ff8": {
+    "elo": 2379,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "435f9848-e6c6-488a-b2db-52e4317e0443": {
+    "elo": 2076,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3179250b-d1ce-49c4-a30a-232472faa48a": {
+    "elo": 2437,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6a37098e-9906-4b6f-a0a3-f0356eb2d513": {
+    "elo": 2299,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9a132ff0-b63c-455c-903b-abadc1879fce": {
+    "elo": 2599,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ae1cfb96-010c-4bcd-8dbd-f8a1d507f1d8": {
+    "elo": 2271,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e19a4f95-7d9b-44e3-a448-0bc4f8477d48": {
+    "elo": 2423,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d3e52667-0aa6-4249-9ab2-085db32d4fd5": {
+    "elo": 2552,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "023967c2-2147-48a9-b192-e36007d4ad8c": {
+    "elo": 2305,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "09c7ade1-5750-4380-8e46-7fbc03c7e135": {
+    "elo": 2553,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1f2c6691-dd1e-43fc-8a34-b75a479a2857": {
+    "elo": 2538,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bc906107-5983-4347-8e99-5a6d68bde024": {
+    "elo": 2321,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cccf94d8-2a1e-4929-8908-c7ba8f0ad8a5": {
+    "elo": 2013,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "345c9427-d507-433b-ab5b-a8bc4e17fce7": {
+    "elo": 2236,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5f5aee6b-58dc-498a-9d2b-c648c6736089": {
+    "elo": 2317,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "042b9772-dbf1-437f-9535-22364eb3e38a": {
+    "elo": 2362,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "90371a75-b95e-49aa-b20d-43f9e300d40d": {
+    "elo": 2153,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "deab2385-96ef-4820-9852-ba6e458b41af": {
+    "elo": 2942,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "077a0c34-0bdb-4ddd-87fa-48676bf3f789": {
+    "elo": 2898,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6606dbff-184b-490f-8a5a-89fbb6f88007": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "1f545e9c-a035-4b32-a174-638e7915ea7e": {
+    "elo": 2825,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5fb1ebc4-ec7f-473c-886a-1ad0b54f5c61": {
+    "elo": 2382,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6ffd99e8-cbaf-4dea-a814-d8eff75ddd08": {
+    "elo": 1798,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "8409130a-fb3d-4788-9bae-dc5e27d38564": {
+    "elo": 3321,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b2b41956-b52c-4432-b603-5ca154d0901a": {
+    "elo": 2682,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "777cdb27-2059-46f9-992c-f2ff4d8beea9": {
+    "elo": 2472,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f8b7549c-4f78-469f-92ef-6b999a257dd8": {
+    "elo": 2491,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3affa5c2-dfba-4c58-8c3a-01ce8a2829f9": {
+    "elo": 2612,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "80dd3811-2401-47b4-8591-5ce3231bcbba": {
+    "elo": 2750,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8cde980f-5407-4b29-b840-761f06c14911": {
+    "elo": 2892,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d77411f9-37ce-4850-9ba7-1cd5f549e5e2": {
+    "elo": 2573,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6e5cca9f-1086-485a-a74e-82ea200ada18": {
+    "elo": 2704,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1a215e35-78fe-422b-822f-db758cd2bfcf": {
+    "elo": 2685,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "776dd761-8e41-4141-bdab-e80bfb080aa8": {
+    "elo": 2630,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0db849ce-220e-4792-b12d-24e82ea69cc1": {
+    "elo": 2352,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "28228d6d-a3c3-4622-b44e-0e28692d3c10": {
+    "elo": 2251,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "81708a30-aae4-438b-9d87-d96d389a4296": {
+    "elo": 2436,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4a1ab202-8045-48a9-87ff-ccbeba869f9f": {
+    "elo": 2188,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3cf7313e-f10d-43ff-aa4a-bc286a80f482": {
+    "elo": 2848,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e86a4d37-7252-497a-b5ab-fd434f5c8d12": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "9543e140-2e96-422e-8224-4bcb179bc5af": {
+    "elo": 2435,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ea5c9af9-3147-4ae9-a076-4caa616696fd": {
+    "elo": 2377,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ccd189fa-776b-46d3-8762-9dcc54b9522a": {
+    "elo": 2923,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f85fdf85-0214-4bfa-ad2d-02483992b51c": {
+    "elo": 2037,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "25a4b28e-ec42-41b6-bbf9-27197ad01cc0": {
+    "elo": 2747,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "398b7f27-52bc-4e76-9cba-6968184eb27f": {
+    "elo": 2607,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d77d0eab-cb60-46ec-82b0-acf2f711e86a": {
+    "elo": 2809,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d45959d0-d2ae-4745-959b-48c28173e287": {
+    "elo": 2676,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6cbcd85c-7746-43aa-8e9f-f45732fadfe9": {
+    "elo": 2777,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cb63d7cd-8d1c-4ff7-b0a1-2cdc0a47d813": {
+    "elo": 2616,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5c1b7c1b-8a08-4f61-b55e-274a9ba817a9": {
+    "elo": 2605,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "93508c35-64f4-4e4a-9e9c-c0cb2e37f55d": {
+    "elo": 2839,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "18de0292-ac58-4229-bfe0-8faafc985352": {
+    "elo": 2073,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bd89e8b6-7b0a-46de-9d20-6bd578d762b9": {
+    "elo": 2164,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0a0dbb7a-fdd0-4d54-a263-7e95150691f8": {
+    "elo": 2156,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "205afeda-6d36-4822-8d9c-336458147f63": {
+    "elo": 2462,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1e8f8fc1-0147-47f6-8e4c-e7d5142f17db": {
+    "elo": 2456,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5bfec3fb-fae1-411d-9541-dbcc49224d47": {
+    "elo": 1992,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "b24a76da-1f4b-4cde-a26b-a7472eb1551c": {
+    "elo": 2081,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "aa185b2b-e0e6-4538-8d73-ca7862abd24f": {
+    "elo": 2258,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3284823e-0e31-406e-b505-2f01a5337b8f": {
+    "elo": 2533,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "80c6a0e3-ff6b-4653-8cbc-3f0025199e3d": {
+    "elo": 2417,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bb2588ef-a279-4137-84e6-c003abc453a1": {
+    "elo": 2718,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6fd26685-e22d-4bdc-bcfa-cb8c435a3fdf": {
+    "elo": 2762,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0bcf2eee-23bd-4bd8-89bc-39fe9e07a12f": {
+    "elo": 2607,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8955d0b8-e8eb-49aa-b971-c221f86a3e37": {
+    "elo": 2128,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "79976d0a-c2ea-4030-943e-0aa9bcb7e29b": {
+    "elo": 2188,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b86df882-ebf8-48ad-8451-877a78e34d24": {
+    "elo": 2631,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1f664aa5-3c0c-45eb-9b2a-4ce102354d66": {
+    "elo": 2585,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1e57e6d1-339e-486a-a772-0d366bee93bc": {
+    "elo": 2170,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4ebfb776-ad1e-44b5-997e-40ce4b073355": {
+    "elo": 2264,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b65a8285-fb6e-40a7-aa20-66e4c9b1f0b8": {
+    "elo": 2493,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "197a30b8-296a-4029-9566-caae808912ff": {
+    "elo": 2293,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "90101214-c7e6-4d92-acdc-b0e65d30b028": {
+    "elo": 2203,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4d2c01c4-e02b-4418-ab85-480ee8ebfc4b": {
+    "elo": 2565,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0bef4e2b-1e74-4f08-876a-ae984abe9f69": {
+    "elo": 2609,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c24cdf75-2efe-4b61-963c-02c43f94dffe": {
+    "elo": 2033,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "32de3742-060d-43d9-a63e-5466f8f98017": {
+    "elo": 1956,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "62cbb014-25b1-433b-9eb8-c60106d9adbc": {
+    "elo": 2783,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d8a4219a-615b-4c8d-9e83-e8b7e50b8083": {
+    "elo": 2536,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d8a50a61-8b25-41e8-b687-416d7632e99e": {
+    "elo": 1575,
+    "level": 8,
+    "winrate": 0.0
+  },
+  "75995127-04b0-48a3-9e11-5899fd657f47": {
+    "elo": 2004,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7cc6b5d2-deb5-4587-b5d3-11f6a8e0f9b6": {
+    "elo": 2362,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ee9549ab-26f3-4f94-9761-c70d744d0222": {
+    "elo": 2698,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6059fa32-7a36-431e-ac8b-1ce4af0cb790": {
+    "elo": 2060,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8c7c9a6a-f237-45a0-a664-194e7a5e7b4c": {
+    "elo": 1928,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "82744b08-125c-48e4-9bff-444ab0070dbc": {
+    "elo": 2368,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b344faa2-dcee-4b66-a820-3e1cbbffb0ab": {
+    "elo": 2817,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "421c4305-c912-49fe-9824-458d318bb29b": {
+    "elo": 2788,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "455cea48-bc03-4921-a42e-561b019969b5": {
+    "elo": 2164,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1350cf50-10b9-4e46-abb4-228ba5a77e49": {
+    "elo": 2825,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d9cf2ddd-ae4f-4cfa-aa8e-5b666b64a55b": {
+    "elo": 2606,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3f72eb23-f0eb-404f-874a-4b631d303ef5": {
+    "elo": 3295,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "901fff05-ded3-4148-ac56-969c2253c87b": {
+    "elo": 2308,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1067779d-47d7-4902-ae90-d2e19147d4ad": {
+    "elo": 2764,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c43ee917-6071-4e9f-bfb9-7262f718d28d": {
+    "elo": 2242,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "dbb99654-de8e-4061-bc06-65080a0b3982": {
+    "elo": 2754,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4f2b8f6f-e208-4d88-91cb-17f248db7595": {
+    "elo": 2348,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ac8423f6-b6d5-4c60-98ff-ba6e4ddab8fb": {
+    "elo": 2347,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cf2ebc21-f5d1-4cc7-b821-a06b79e04834": {
+    "elo": 2430,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b141ecda-4a98-48d6-b80f-c2634eda84ac": {
+    "elo": 2834,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a2e55b71-d717-4892-837c-5d732fe377ab": {
+    "elo": 2312,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "717b27b2-3dfa-4485-a748-f5f2c1b8834a": {
+    "elo": 2024,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0faf66a6-e323-4561-b920-514cb16ee0bd": {
+    "elo": 2580,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d88a8c62-3b4c-4f7e-9873-b2eb5d54eb01": {
+    "elo": 1964,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "af08583a-b88b-4d35-9197-725b30c99caf": {
+    "elo": 2557,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "428c3151-9127-4b11-a8ec-1557783e2bbb": {
+    "elo": 3077,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7fe34073-193e-4ec5-a0ec-f7e5558b6897": {
+    "elo": 2276,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "620ea8e2-8571-459f-8fa8-d35535b2433a": {
+    "elo": 1698,
+    "level": 8,
+    "winrate": 0.0
+  },
+  "1d781fa4-458b-4890-b49d-64a964d5300b": {
+    "elo": 2510,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3c728c77-47d3-45b4-bd70-dca6115e6063": {
+    "elo": 2478,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b159c029-8130-4a2f-9197-787b1440652c": {
+    "elo": 2068,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "544c7ccf-d9a6-48dd-8cf1-a288f3089431": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "1060dffe-f661-433a-9c05-6f08db45dadd": {
+    "elo": 2357,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "caf7167a-c996-49e2-a5b6-9235f2c3a66b": {
+    "elo": 2369,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6d14bdfe-8f4c-458a-8f5c-8d408ff6c0cc": {
+    "elo": 2163,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "de36e0c0-694e-46e4-8b4a-9b0204338107": {
+    "elo": 2321,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "63f287a7-2af1-4a01-b9dc-6ab0561f7b1a": {
+    "elo": 2773,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "260ebba1-9d9a-4c25-91a0-d4a977ec9566": {
+    "elo": 2322,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d890c5c1-697b-4bd5-a025-216aea3ded5f": {
+    "elo": 2330,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1bee9d2a-829f-48e0-9e56-61cb94f6395e": {
+    "elo": 1924,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "9c0302e5-bf70-4262-8532-1a3782edd471": {
+    "elo": 2182,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c631f02e-f917-4288-b813-755122658073": {
+    "elo": 2964,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "43654ec3-aa82-4973-a017-d9d766e9c0d9": {
+    "elo": 2806,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "40504d0c-54e8-4d93-adaa-adcc4d14fadb": {
+    "elo": 2494,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1ef741b3-6798-4416-bd15-0d4beab38638": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "2beb38ca-e542-4434-a755-192c48a88aa9": {
+    "elo": 2239,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1913972d-100a-4308-be24-13ce9d5478c2": {
+    "elo": 2549,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "322d53ea-b2d3-491f-ac0e-c9e459446481": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "78acc043-d37b-4c56-846e-325822f49f76": {
+    "elo": 2763,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7b3c952e-8c15-4649-9071-9823df7e5880": {
+    "elo": 2195,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b10d0369-f6e3-4839-a5e4-505ed8ba1afc": {
+    "elo": 2144,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6f8bb156-0bc8-4889-a8b9-63fa6897fb0e": {
+    "elo": 2124,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "195b8e5c-2767-4d76-b24d-bebfb1b0541d": {
+    "elo": 2538,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8d1725f7-5a75-4f21-8249-cd049c9a1de1": {
+    "elo": 2558,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "241b084e-710f-4ea5-aa89-f0d8e741db7f": {
+    "elo": 2531,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bc1397d8-2fd6-444f-8bac-1cedd67c1552": {
+    "elo": 2331,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "594d44e4-ecd2-42ee-86b5-48f94a894586": {
+    "elo": 2462,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3025bfe4-138a-4441-8064-14e9ed048120": {
+    "elo": 2368,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fc1069ae-e5d9-4232-b7a1-4528efbc869c": {
+    "elo": 2517,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "39eba38d-6340-47a5-bf38-d57a03eb8a39": {
+    "elo": 2851,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "064bb034-6b34-4329-9f29-a9ac125c1323": {
+    "elo": 2733,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7d9a12f5-e6f7-4758-8945-abb9844cf8b7": {
+    "elo": 2624,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b00cf7f2-35f0-4631-a72b-bbf2baa68d10": {
+    "elo": 1969,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "db669348-d372-46a0-8bde-a168782e8ee1": {
+    "elo": 2468,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d7008e2a-3b80-4f75-8175-15ef68858818": {
+    "elo": 2407,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9339da0b-625e-46e3-92d5-843fa5bbea1d": {
+    "elo": 2479,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6b0e8deb-d162-441d-9a68-f14447c512c6": {
+    "elo": 2380,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "20fa1f54-809b-419c-a6fa-e40e51e9cffe": {
+    "elo": 2028,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cf84a54d-7dc8-4de5-8772-a5f891455808": {
+    "elo": 2290,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0ac43672-a8cd-4ebc-b12b-1804a565b08c": {
+    "elo": 2360,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "df5636b7-c133-4e15-b541-c0bd9313fd8b": {
+    "elo": 2536,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "45391607-7ada-46d8-ae74-535383b7c64e": {
+    "elo": 2556,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0e6155f5-ef75-4d60-bec2-6386267f12bd": {
+    "elo": 2281,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f0d751da-549d-4fdf-b075-1351cd3f657e": {
+    "elo": 2159,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "55ed5894-aa3a-4330-9950-7beccd05a8cf": {
+    "elo": 2356,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b911bf4c-1e69-4cb6-b699-723fab88a7a8": {
+    "elo": 2574,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ee6b6877-f59a-4b70-a48d-2bf5b42e85fd": {
+    "elo": 2443,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0346fd7c-6006-484d-a585-c766db63f7dd": {
+    "elo": 2615,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d3e633b1-2d31-41fe-9542-7f8b2b1cd3d9": {
+    "elo": 2546,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ce75d5e8-634a-497e-b609-0d448321b8b1": {
+    "elo": 2124,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a220d151-62dd-44f8-b414-c41b72b72fb1": {
+    "elo": 2277,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "81b0aaca-493d-42a3-8e64-008e83718dbd": {
+    "elo": 1712,
+    "level": 8,
+    "winrate": 0.0
+  },
+  "050d2717-fbb4-4595-90ac-9565877e89b9": {
+    "elo": 1987,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "0256d10f-af0e-499c-a98b-83f5e71c3df4": {
+    "elo": 2125,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3268cc45-dcc6-49dc-8b25-68779937753d": {
+    "elo": 2698,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "88be2ab0-facf-4f17-b707-a653d86f259f": {
+    "elo": 2152,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b159747f-b2a2-4fbd-b00e-2ef6bc0fc8db": {
+    "elo": 2410,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1a90b44d-e934-4d44-b3de-0d37f6c34317": {
+    "elo": 2194,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3cf642c0-d926-4a17-be98-486688a618a5": {
+    "elo": 2716,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "953c138e-9c28-4c65-adb8-b4802e297942": {
+    "elo": 2475,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4d0df6d3-9e9f-4d1c-8a11-6dfb8774bd0e": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "d0cedaa1-bbf5-418e-a3e8-907e10da1e31": {
+    "elo": 2466,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1f7eb992-7c29-4671-ba78-f441be4df601": {
+    "elo": 2476,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "82a70877-8f0f-42fe-877f-a565492f206a": {
+    "elo": 2209,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "03d900c0-8fae-41bd-91e3-1062fb9a2bd1": {
+    "elo": 2266,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f0edfa68-1118-4a25-928c-e612243f7a3c": {
+    "elo": 2276,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1f153217-63ce-43d1-9db1-ecdee73d9c8f": {
+    "elo": 2236,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "2a462560-2e79-4dc4-9022-12745ecdee53": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "e2fac804-30df-4b4a-971e-88247776d25c": {
+    "elo": 2298,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fd677f1c-ae71-46fc-99f2-1cc344e02829": {
+    "elo": 2361,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4d07d60c-99a6-4ef0-8dfa-672b30208867": {
+    "elo": 2468,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6429f0cb-f62b-4274-85e0-7f1afcfeb023": {
+    "elo": 2500,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8ba7c218-1657-450a-94bc-bacf6928848c": {
+    "elo": 2413,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "131cab42-8da8-4ea3-a986-b7f7ee1918dd": {
+    "elo": 2512,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1d7ee63f-2de9-4f70-8ab5-6805b6965ac9": {
+    "elo": 2668,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "70e3dc1f-ef4f-4620-ad97-10c72dc08282": {
+    "elo": 2628,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a1542c34-ccba-4b1d-aa98-951c4fa72064": {
+    "elo": 2407,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "15c0efb5-8dec-46ec-a47a-169d065b38f9": {
+    "elo": 2285,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b44d7f84-40e1-423b-ac55-8c3e7a001a43": {
+    "elo": 2432,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e22fb5ef-0e16-4363-a2af-77649ca72b94": {
+    "elo": 2501,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ec4f11a0-1e01-4af7-bc7b-a540acb6403e": {
+    "elo": 2283,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f4ba2fff-b79b-4b27-a021-ecb293589e23": {
+    "elo": 2432,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "110a55b2-2fd5-4aff-9994-3048f8f52c8c": {
+    "elo": 2511,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1b8cdf54-0650-411d-94ba-fd75d8a42043": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "3a89174a-fe56-4f63-a7de-78e5eb85ac94": {
+    "elo": 2705,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ae54225f-d743-456d-bfca-5b2256988cdd": {
+    "elo": 2422,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c90c2479-7a5d-4ac4-aaa0-a2f502d91b02": {
+    "elo": 2610,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9f4336ed-6543-4796-b866-fa602572f87a": {
+    "elo": 2505,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0842daf6-0584-4342-adf2-ede1136f79ec": {
+    "elo": 2041,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "acd14872-1a80-45d2-a85d-07255ad44ea8": {
+    "elo": 2258,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cdceb8f1-abd9-4a79-ba7a-c107c1f0e227": {
+    "elo": 2335,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9169b80a-3166-4fc5-a026-ed826918eed8": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "7928aca1-c768-4a60-994e-451e3a8b4d70": {
+    "elo": 2066,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0f9eb7ca-914a-42e4-9b56-02adab26c27f": {
+    "elo": 2139,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "41937770-e712-413a-88d0-266d98b75956": {
+    "elo": 1953,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "9ca714c8-4aa1-413d-abe1-6dfc91ce757a": {
+    "elo": 2503,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c758af86-e1e3-4096-8ac8-945ba22a5873": {
+    "elo": 2138,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8512dbf4-4971-4aff-92be-d922eaa578d7": {
+    "elo": 2433,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "da7df4cb-69c6-4de1-a073-67beca8512bc": {
+    "elo": 2626,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "814b8b14-bb98-49a9-8d32-ff5170b8ac63": {
+    "elo": 2352,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "eac2f95b-1450-4522-afda-448e0c9aa3a0": {
+    "elo": 2741,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "05dfe581-86ef-43a1-a904-81820ba1c1bb": {
+    "elo": 2287,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6c25e39a-d15a-4024-a5a9-1302915aaa0f": {
+    "elo": 2558,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "21b7d89b-94d1-43cf-90b9-9d2cca4c692a": {
+    "elo": 2423,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "61ccd17f-a9ce-43e1-b2c2-8ce0678af70b": {
+    "elo": 2258,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6de816a6-b699-42ec-8b04-46c2368d71d1": {
+    "elo": 2386,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "48793fbd-249e-4cb3-9b68-59ca6ec86941": {
+    "elo": 2462,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "98c11bc0-7c65-4df3-add9-9c6b200e85de": {
+    "elo": 2416,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ec8c32c5-75af-467b-9fa1-eb9c421d9f2e": {
+    "elo": 2300,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0ac2bc2b-df5f-4daf-a166-22c15a81efdd": {
+    "elo": 2123,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a33f226f-8ee5-4854-a7e6-701021fcff55": {
+    "elo": 2392,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4413dc3e-7872-4c06-847a-27d6bd025cd7": {
+    "elo": 2166,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1f5665af-e2a7-4c38-99aa-b2fb41b3b062": {
+    "elo": 1089,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "12eb5dee-c23a-4491-8a75-49031e5500df": {
+    "elo": 2512,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "650c0658-f2a5-41bb-acae-8f8332552ec0": {
+    "elo": 2781,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fdd6484f-b3e0-439b-ad8d-d500a77d6cea": {
+    "elo": 2161,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "57a819e5-5b53-496f-b79a-87331c31a3c6": {
+    "elo": 2299,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b82e4e19-19ff-48d7-a294-c55793dcf3b9": {
+    "elo": 2391,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "785a167e-0fac-4ad0-a9e7-4e4c8961ffb6": {
+    "elo": 2589,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "014abc70-d770-4768-a568-b67e192f09d5": {
+    "elo": 2677,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4e54beb1-3991-495a-8b4a-e945e46bda0a": {
+    "elo": 2577,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5e71d9c6-3821-44e6-9dcf-b40930e0522c": {
+    "elo": 2152,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4e48eb4b-a741-42c6-b51a-b75cdb4b1475": {
+    "elo": 2456,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "59e965d2-a299-460a-9421-3d8b59e66264": {
+    "elo": 2270,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d4da8a9c-6551-4580-bc66-09cd37c5a2c2": {
+    "elo": 1978,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "667c6104-304a-4b67-9f2c-c1593bec05b1": {
+    "elo": 2493,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b5f28e56-2137-40d6-8fdd-317a48f68591": {
+    "elo": 2075,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "191be4ed-99e1-412f-b1ee-cc9de0125e3a": {
+    "elo": 2269,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4581e63d-5932-41db-9c33-7faa0d9cd443": {
+    "elo": 2734,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "df495426-c097-4472-8699-de0903649540": {
+    "elo": 2312,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "deeaff5c-7fa1-47d6-8445-e26686dfedd6": {
+    "elo": 3021,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cdb86ffd-0407-4e7e-a9a1-e5fb3b86afdb": {
+    "elo": 2563,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "90bbf16a-9fca-4fe0-88bf-0873ff5df519": {
+    "elo": 2304,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "540f2d19-bd39-4320-a71d-a38b34bcefe1": {
+    "elo": 2637,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "26be0c69-5cd4-493e-863c-dc8c44628ae6": {
+    "elo": 2303,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4824929f-35cb-4274-9521-373dfe385cf5": {
+    "elo": 2625,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "934f4396-5242-4da2-8d75-b1287e318ebf": {
+    "elo": 2655,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "70543373-bda7-48df-960f-274963df333a": {
+    "elo": 2424,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "93ad0823-b93f-4abd-a4eb-037d39b6cb9e": {
+    "elo": 2478,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6e150f14-881b-441b-88cc-f98d32b0f248": {
+    "elo": 2630,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f9150fb3-1ac9-408b-9ce4-0303012cd626": {
+    "elo": 2566,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9e697c0e-de4c-4ee8-9a5e-f562213f88b0": {
+    "elo": 2642,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "17502af3-e6bc-468e-aac5-f3012702a759": {
+    "elo": 2293,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9d83deb0-b27c-41a8-be70-edadc20e4b71": {
+    "elo": 2297,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a7e9e27f-4397-4b6e-8043-090832ed8e4e": {
+    "elo": 2587,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fbca640b-30ea-4b42-8218-cc31c127227d": {
+    "elo": 2442,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "69389d3b-7be6-468f-9213-edb53f8a20cd": {
+    "elo": 2648,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "96da752e-51dc-4547-a0f3-f1d201efffed": {
+    "elo": 2300,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "42341d3f-d214-41da-a712-60581fb2aade": {
+    "elo": 2617,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fc2fadc8-e5b7-4048-9a81-a1f6731e692e": {
+    "elo": 2008,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "388654d4-2324-45ea-8c9c-911abe23ee2f": {
+    "elo": 2402,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "62d3f2a1-89d7-48d7-81f3-23c4748eb7cb": {
+    "elo": 2609,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7b6a4bbb-3c75-4b40-821e-86d17f4bc555": {
+    "elo": 2296,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a436d816-f3a8-4f40-9181-e0a524f3f00d": {
+    "elo": 1974,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "40d85d60-7151-4b96-a52e-be37691461ab": {
+    "elo": 2344,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "116258e8-3313-4b55-ae62-b7051150d24a": {
+    "elo": 2138,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7acbe647-63b7-4cbb-9a29-08324b69189f": {
+    "elo": 1996,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "37215eeb-5112-4070-940e-f1b05a1993dd": {
+    "elo": 2120,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "69229a74-1cc2-46a7-80a9-e9faacb86e7b": {
+    "elo": 2197,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "30dc0322-7090-4065-91c9-0dfbc9f1e0e3": {
+    "elo": 2526,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4c431d6b-101c-4b3a-bd9f-7534e9913ae1": {
+    "elo": 2256,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f95f652e-1bdb-4701-955e-876e73757d52": {
+    "elo": 2297,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6961a283-b553-417c-a059-73463b6830a2": {
+    "elo": 2314,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4812983f-7741-466d-83d4-c46769c7c908": {
+    "elo": 2817,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d10c45df-c430-41a6-8a67-f6cd2b06e717": {
+    "elo": 2271,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bece77f6-fab6-465a-a567-57cb7179357a": {
+    "elo": 2664,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ce1dad36-aeca-43c2-b215-2111c6df8a9e": {
+    "elo": 2341,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f2f9c31f-7259-47a6-9ec3-0cc9fde914c6": {
+    "elo": 2375,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bebe97fd-4652-48d0-8e38-f2c92c587ac3": {
+    "elo": 2115,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "99e774a7-5b61-4007-be7c-fbe271f13ebd": {
+    "elo": 2277,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b8d21149-6453-4cdd-b062-e40228a32b97": {
+    "elo": 2406,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "44311eaf-835d-41a5-9262-3a7275f307be": {
+    "elo": 2850,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e744697b-ff15-49a9-baa4-0031792d517e": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "291ddfca-30dd-4f48-8e15-b4fd13564109": {
+    "elo": 2569,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "2a90f245-da3c-4640-badb-7a79f16c2d4e": {
+    "elo": 1956,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "0237a135-b328-4147-a82d-c221d35be141": {
+    "elo": 2439,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9ab2c9d8-692f-4f5a-9f32-483b340e72b4": {
+    "elo": 2487,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "be31028a-00cc-4f29-bc9b-dbbf83630de4": {
+    "elo": 2541,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e55e6387-2b2c-4ed4-8cf5-d229975f0dc8": {
+    "elo": 2571,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c934f7cc-6392-44cd-9535-71554d55158d": {
+    "elo": 2246,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ffc3a318-d813-4ea7-bc3f-e023fc337815": {
+    "elo": 2542,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "353fcd0c-863a-45ca-8c39-1f2ec74ed9b6": {
+    "elo": 2484,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bb4c8581-d119-434a-a6b6-21787059798f": {
+    "elo": 2636,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d356f6ff-6249-4d04-b1be-d54b39589191": {
+    "elo": 2748,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a31d3566-612d-43ea-8038-6f3a3122a719": {
+    "elo": 2517,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cadf86c1-a679-42df-a2ad-791e2fab575e": {
+    "elo": 2459,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e57244da-b3cf-4e0e-a6ec-8f9e2770f6b4": {
+    "elo": 2546,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d53771d3-6983-4b72-bc29-a0930aa59da3": {
+    "elo": 2500,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6490f937-4542-425f-a591-8e5a0b8bdb6e": {
+    "elo": 2454,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "66d8b79a-486d-42df-8e53-8b3d20d8933f": {
+    "elo": 2473,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ec49930d-3db6-416d-bf95-f4a945de4d15": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "97991beb-638d-4928-a213-a9032166b279": {
+    "elo": 2258,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bd429c5e-8196-4eb9-bbfd-e4ad949c0495": {
+    "elo": 2737,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b381bf6e-40fc-4d2e-a3ad-88c0f7ab0f7e": {
+    "elo": 2648,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "87ff52c5-ca60-4213-a27e-ffde66abb8ff": {
+    "elo": 2243,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9c08cd3b-2f2d-4200-ae94-23753dd95a4f": {
+    "elo": 2801,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e6cd7d93-bb8a-4606-a2d3-2eb122b1e38a": {
+    "elo": 1985,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "93caee7d-c770-421a-8e10-75392b89a51a": {
+    "elo": 2560,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ed714bf8-0ada-4235-89d7-6bf53c03c1cc": {
+    "elo": 2543,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "2c2c1144-a6fe-4171-9a49-59b82799e724": {
+    "elo": 2756,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8e444e24-5a3c-4006-be69-a8893b2598e8": {
+    "elo": 2429,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cf62aa51-2620-47ce-b715-adb84e7e53e9": {
+    "elo": 2684,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bdd5c9d3-a901-42c4-bc62-f38f983cde67": {
+    "elo": 2407,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8076da6e-0988-4ce2-a8a3-3368974bff01": {
+    "elo": 2406,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "004d304a-afbc-4069-b993-8380037a98b4": {
+    "elo": 2355,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7f498ee1-5f46-495d-b59d-dc5d8738504d": {
+    "elo": 2548,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6c783831-99b0-4b09-a32a-f4109ac0f5eb": {
+    "elo": 2110,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "271753d3-39e4-4485-bec3-9ad76d71f842": {
+    "elo": 1866,
+    "level": 9,
+    "winrate": 0.0
+  },
+  "e6629994-cd8f-43c2-8331-af7233878cb5": {
+    "elo": 2259,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d6422222-0747-466a-a256-34f3c671ba02": {
+    "elo": 2053,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3ac64763-9215-4148-844b-26f5f01058cf": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "6ec38417-139c-4a3d-8798-40bbd8b31d22": {
+    "elo": 2397,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "23cb31b0-d0e4-47ae-b20a-eec1a9cd99a6": {
+    "elo": 2167,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "427f01ed-d8d0-4b99-866b-5f244b42b033": {
+    "elo": 2005,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "053536f1-8e41-4455-a894-9a8ec49bc3a9": {
+    "elo": 2202,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "83156256-e8c4-413f-aeea-2b72ed47ef1f": {
+    "elo": 2826,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "15f9a674-0348-46ea-b661-8714cc492fc5": {
+    "elo": 2748,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "72acd637-edbe-4b1b-9e45-406e78c1575a": {
+    "elo": 2300,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a695c368-a6ae-472d-9e98-a004a1a382a9": {
+    "elo": 2400,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4c45a0af-f814-47b5-8e4c-d6cdced78ec0": {
+    "elo": 2416,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b6ea4f82-1bec-4b2a-92a8-323aaf2cde90": {
+    "elo": 2459,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "bdfed863-74c4-4af6-9273-5bee3bb90c72": {
+    "elo": 2627,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5520d729-50e7-4b21-ae1a-2d7f0c8d2238": {
+    "elo": 2719,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ab7aa294-955b-4c63-8d7b-a802f766f47c": {
+    "elo": 2403,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ecb6b144-b88c-4a45-a4b3-d03450221dd9": {
+    "elo": 2739,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "745fbbe5-55cf-4701-a1d2-7a82c4e89f8a": {
+    "elo": 2460,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8d92c738-64ff-4b26-aa18-2d057639ed7f": {
+    "elo": 2296,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5c810880-6d57-4444-8efb-37d38366217b": {
+    "elo": 2353,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "d87d8373-fbc3-4300-bef2-02804f6cd50b": {
+    "elo": 2297,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "150ba092-8bc0-4637-9153-3e799bedc407": {
+    "elo": 2267,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8611ceea-1c04-457c-9716-9cbf62e6d65a": {
+    "elo": 2503,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9eb6000b-e0fb-42a4-bf2d-ac55e37108de": {
+    "elo": 2417,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1989009b-9cd0-4089-a1c2-629d93b40988": {
+    "elo": 2527,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9d2e2671-e483-484b-a853-1d31a2cbefcb": {
+    "elo": 2223,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "95e7392d-e83b-4072-be9e-27cfec2383b1": {
+    "elo": 2539,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "fddd80b9-6715-45ec-8058-de07fdd69038": {
+    "elo": 2402,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a83dd2b8-1100-44d3-94d2-ab8660dde822": {
+    "elo": 2591,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "c45b9953-7bb3-4f95-b542-1b7f6a532486": {
+    "elo": 2421,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e89cf678-55b6-443d-9a70-c52b3eb85933": {
+    "elo": 2614,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4530af20-6dbd-4097-bf70-73a8dce4fa5b": {
+    "elo": 2531,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9d92a1e7-fff5-4ebd-9b78-8522aacad6da": {
+    "elo": 2473,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "22b5b673-a6d8-4868-aea4-10bcb3324c86": {
+    "elo": 2396,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cdc7a077-3c76-4f2f-bc81-df36b248b0f0": {
+    "elo": 2547,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "223aaa56-0678-4f60-89d6-dbe8a6309a58": {
+    "elo": 2711,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0f3023af-7779-498e-8e2f-68ee5a8b52e9": {
+    "elo": 2312,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "64ddef5a-9cb7-4957-b050-58249f355d8a": {
+    "elo": 2410,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e7c9978d-23d2-439a-bdbf-cf941a771c8c": {
+    "elo": 2284,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5400aa07-7b9e-4830-bea7-4403de8dd420": {
+    "elo": 2713,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3cf723f2-0b7d-47f3-b6ad-696064d927a1": {
+    "elo": 2192,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ea15a9a6-8204-4803-be20-1eced07e5d4d": {
+    "elo": 2524,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e528906a-ac87-4e0d-8c9e-11420b1a09d7": {
+    "elo": 2560,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "cc1bb8f6-5072-44d8-86ef-e869acc64b5d": {
+    "elo": 2653,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "eb4ffdc4-da69-4ebb-b315-46a2c5b4ac5a": {
+    "elo": 2935,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6c0b01ba-d576-48a9-b103-6b7684a467bb": {
+    "elo": 2899,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4ffc1827-d318-4f2e-a0fc-d80f575f2177": {
+    "elo": 2280,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8069a0b5-234e-447c-a17c-e56558c1d5fc": {
+    "elo": 2226,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4e2c111b-2a7e-452b-b25c-46a8e46709b7": {
+    "elo": 2223,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f5f1183f-5fc3-4f77-9eb0-b1737503e81f": {
+    "elo": 2304,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "08a29488-6c3e-4c9b-8c89-f03e39d87d58": {
+    "elo": 2625,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8baba56a-b642-43d2-92a4-60be8486638c": {
+    "elo": 2804,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9306062c-088d-4e8e-8fcc-c6d9a1ffb54c": {
+    "elo": 2242,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5e66c237-3479-4565-9185-36bc70943ce9": {
+    "elo": 2019,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b2011e06-8990-4c6c-ba28-faf629d1068f": {
+    "elo": 2610,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8fda40f0-f337-4bbd-a841-4605421b179c": {
+    "elo": 2680,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f71f762d-eaca-4687-b167-d630c2b19b9b": {
+    "elo": 2728,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "3e9bee52-9300-4859-9dbb-c00c86713bee": {
+    "elo": 2003,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1560cf92-21ba-4058-910f-843f7a9d2438": {
+    "elo": 2277,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6c6a2745-27fc-496f-ad17-000a1f3940ba": {
+    "elo": 2535,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "40d850ee-5f49-407b-b5f6-867c613b0a1a": {
+    "elo": 2356,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "8b91a6ba-536a-44e4-8a72-f505c4aaebb2": {
+    "elo": 2566,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "f7a2b41b-fde6-44e6-bf95-1cb01f4635a9": {
+    "elo": 2545,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "08f9b96f-40c5-4c7b-a7ec-e62a977e3543": {
+    "elo": 2547,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "9be77b2d-4e4c-4808-ad88-97c9a26d2560": {
+    "elo": 2719,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e8663143-761f-47e3-a2b5-b710ea5fd7d8": {
+    "elo": 2466,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7dcbe2a2-0ff1-4b64-9122-04344d048355": {
+    "elo": 2587,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "6e053571-47ed-4b9c-9b83-7d03adfa2c5d": {
+    "elo": 2672,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "e9c44607-5372-44d4-83ae-e47398d73d1a": {
+    "elo": 2561,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b0efcf53-db6b-466c-a47a-f9d5a2cdaf43": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "fed722cc-e49e-4246-a6d2-cbfdd4c1e976": {
+    "elo": 2499,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "44c919ce-b9f0-4086-a8cd-16db2d070428": {
+    "elo": 2827,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "88200150-dceb-4310-b500-40f891c66d45": {
+    "elo": 2685,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4fc2f5dc-0480-4228-b20a-bcc8daab1603": {
+    "elo": 2577,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b9f89a20-34a3-4ebc-b3be-bbf7990b0baf": {
+    "elo": 2755,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "7bb10a56-bf49-4fb7-a19d-15218b9bbc9c": {
+    "elo": 2349,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ca25173b-23c8-4c5d-9223-ecae3c2dae8a": {
+    "elo": 2476,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "598493ab-5dc3-421c-89e8-8e00cc733a82": {
+    "elo": 2353,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4210a0d9-69bb-42bb-8157-e54c6b7111cf": {
+    "elo": 2758,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "90a08aba-95dc-4944-88b7-f0ceac05b350": {
+    "elo": 2201,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "4dec8b6a-06c4-4919-a5f0-605b0cf1680d": {
+    "elo": 2286,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "ab3fad09-cc27-4a50-b94a-1306a2dcbd84": {
+    "elo": 2573,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "1b7a65fb-b79a-469a-9ab5-ad415f9a097f": {
+    "elo": 2509,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "53bafb9a-182d-47df-a47e-88e484b82c7c": {
+    "elo": 3059,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "12c72389-5fe8-45d8-8bd0-5af4b8bdf12b": {
+    "elo": 2581,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b8bf2085-9427-46dd-8968-3965a4fced11": {
+    "elo": 2623,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "b06b597d-0d1e-4322-bca6-0f18d2ffc4c8": {
+    "elo": 2097,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "0a54addd-7656-4458-ace9-23b48f305853": {
+    "elo": 2068,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "392d6374-52bf-4f0c-b0d8-44bb4f1c3329": {
+    "elo": 2528,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "dc28e0be-2363-4583-9d97-6c5ad70788a4": {
+    "elo": 2491,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "a429b0f8-3942-436f-9cc5-0e655478ae25": {
+    "elo": 1000,
+    "level": 3,
+    "winrate": 0.0
+  },
+  "cd3a2e93-ce73-4521-9506-64a3b2acca05": {
+    "elo": 2238,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "92e4068f-2544-4784-9b80-8d078d177dcf": {
+    "elo": 2411,
+    "level": 10,
+    "winrate": 0.0
+  },
+  "5c4292e7-269f-4e06-870c-02e1201b9d65": {
+    "elo": 2574,
+    "level": 10,
+    "winrate": 0.0
+  }
+}

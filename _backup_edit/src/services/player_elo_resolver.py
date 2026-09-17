@@ -151,7 +151,7 @@ class PlayerEloResolver:
                 data = data2
         return (key, data)
 
-    def batch_get_players(self, players, max_workers=16, batch_timeout=300):
+    def batch_get_players(self, players, max_workers=8, batch_timeout=300):
         result = {}
         to_fetch = []
         for p in players:

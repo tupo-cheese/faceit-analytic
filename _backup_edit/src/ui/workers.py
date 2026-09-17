@@ -8,7 +8,7 @@ logger = logging.getLogger('faceit_analytics')
 
 
 class QuickWorker(QThread):
-    progress = Signal(int, str, str)
+    progress = Signal(int, str, str)   # value, text, eta
     log = Signal(str, str)
     finished = Signal(dict)
     error = Signal(str)
@@ -46,11 +46,11 @@ class QuickWorker(QThread):
         total = len(active)
         done = 0
 
-        def emit(text, eta=''):
+        def emit_progress(text, eta=''):
             self.progress.emit(int(done / total * 100), text, eta)
 
         if sources.get('steam'):
-            emit('Steam...')
+            emit_progress('Steam...')
             self.log.emit('INFO', '→ Steam')
             try:
                 s = await self.player_service.steam.fetch_player(self.steam_id)
@@ -64,7 +64,7 @@ class QuickWorker(QThread):
                 return data
 
         if sources.get('cswatch'):
-            emit('CSWatch...')
+            emit_progress('CSWatch...')
             self.log.emit('INFO', '→ CSWatch')
             try:
                 c = await self.player_service.cswatch.fetch_player(self.steam_id)
@@ -84,7 +84,7 @@ class QuickWorker(QThread):
                 return data
 
         if sources.get('faceit'):
-            emit('FACEIT...')
+            emit_progress('FACEIT...')
             self.log.emit('INFO', '→ FACEIT')
             try:
                 f = await self.player_service.faceit.fetch_player(self.steam_id)
@@ -95,6 +95,9 @@ class QuickWorker(QThread):
                     self.log.emit('INFO',
                                   f"  FACEIT: level={f.get('faceit_level')}, "
                                   f"elo={f.get('faceit_elo')}")
+                else:
+                    self.log.emit('WARN',
+                                  '  FACEIT: не удалось получить (пусто)')
             except Exception as e:
                 self.log.emit('WARN', f'  FACEIT: {e}')
             done += 1
@@ -102,7 +105,7 @@ class QuickWorker(QThread):
                 return data
 
         if sources.get('csstats'):
-            emit('CSStats...')
+            emit_progress('CSStats...')
             self.log.emit('INFO', '→ CSStats')
             try:
                 cs = await self.player_service.csstats.fetch_player(self.steam_id)
@@ -114,7 +117,7 @@ class QuickWorker(QThread):
             if self._stop:
                 return data
 
-        emit('CSRep...')
+        emit_progress('CSRep...')
         self.log.emit('INFO', '→ CSRep')
         try:
             cr = self.csrep.fetch_player(self.steam_id)
@@ -130,12 +133,11 @@ class QuickWorker(QThread):
 
 
 class DeepWorker(QThread):
-    progress = Signal(int, str, str)
+    progress = Signal(int, str, str)   # value, text, eta
     log = Signal(str, str)
     finished = Signal(dict)
     error = Signal(str)
     cancelled = Signal()
-    partial = Signal(dict)   # ★ стриминг: эмитится с накопленным match_data
 
     def __init__(self, steam_id, mode, player_service, match_aggregator, db,
                  match_limit=30, parent=None):
@@ -147,7 +149,6 @@ class DeepWorker(QThread):
         self.db = db
         self.match_limit = match_limit
         self._stop = False
-        self._partial_buffer = []
 
     def stop(self):
         self._stop = True
@@ -165,14 +166,6 @@ class DeepWorker(QThread):
             self.error.emit(f'{e}\n{traceback.format_exc()}')
         finally:
             loop.close()
-
-    def _on_match(self, entry):
-        """Callback из aggregator — каждый готовый матч."""
-        self._partial_buffer.append(entry)
-        if len(self._partial_buffer) % 5 == 0:
-            # эмитим копию буфера
-            self.partial.emit({'match_data': list(self._partial_buffer),
-                                'count': len(self._partial_buffer)})
 
     async def _run(self):
         result = {
@@ -196,7 +189,7 @@ class DeepWorker(QThread):
         self.log.emit('INFO', f'  ✅ {len(matches)} матчей доступно')
         if len(matches) < self.match_limit:
             self.log.emit('WARN',
-                          f'  ⚠ доступно {len(matches)}, нужно '
+                          f'  ⚠ доступно {len(matches)}, а нужно '
                           f'{self.match_limit}. Делаю load_more.')
             self.match_limit = len(matches)
         result['matches'] = matches
@@ -232,21 +225,19 @@ class DeepWorker(QThread):
             eta_str = (f'{int(eta)}s' if eta < 120
                        else f'{int(eta//60)}m {int(eta%60)}s')
             pct = 15 + int(cur / max(total, 1) * 65)
-            self.progress.emit(pct,
-                                f'Сбор {cur}/{total} (~{rate:.1f}/с)',
-                                f'ETA {eta_str}')
-            if cur % 5 == 0 or cur == total:
-                self.log.emit('INFO',
-                              f'  [{cur}/{total}] (ETA {eta_str})')
+            self.progress.emit(
+                pct,
+                f'Сбор матчей {cur}/{total} (~{rate:.1f}/с)',
+                f'ETA {eta_str}')
+            self.log.emit('INFO', f'  [{cur}/{total}] матчей (ETA {eta_str})')
 
         self.agg.on_progress = progress_cb
-        self.agg.on_match_collected = self._on_match
         match_data = await self.agg.collect_matches(
             matches, my_player_id, limit=self.match_limit,
             enrich_countries=True, enrich_elo=True)
         result['match_data'] = match_data
         if not match_data:
-            self.log.emit('WARN', '⚠ не удалось собрать детали')
+            self.log.emit('WARN', '⚠ не удалось собрать детали матчей')
             self.progress.emit(100, 'Нет деталей', '')
             return result
         if self._stop:

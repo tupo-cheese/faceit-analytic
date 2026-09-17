@@ -81,7 +81,7 @@ class MainWindow(QMainWindow):
         top2.addStretch()
         top2.addWidget(QLabel('Доп. матчи:'))
         self.load_more_spin = QSpinBox()
-        self.load_more_spin.setRange(25, 10000)
+        self.load_more_spin.setRange(25, 5000)
         self.load_more_spin.setSingleStep(25)
         self.load_more_spin.setValue(200)
         self.load_more_spin.setSuffix(' шт')

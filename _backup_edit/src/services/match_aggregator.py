@@ -191,7 +191,7 @@ class MatchAggregator:
                         seen.add(k)
                         unique.append(p)
                 logger.info(f'  ELO: {len(unique)} уникальных игроков')
-                elo_map = resolver.batch_get_players(unique, max_workers=24)
+                elo_map = resolver.batch_get_players(unique, max_workers=16)
                 ok = 0
 
                 def _apply(p):

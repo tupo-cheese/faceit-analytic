@@ -1,6 +1,8 @@
 import re
 import json
 import logging
+import concurrent.futures
+from pathlib import Path
 
 logger = logging.getLogger('faceit_analytics')
 
@@ -107,7 +109,7 @@ class MatchRoomParser:
             return 0
 
 
-def _try_room(match_id, lang, proxy):
+def _fetch_room_one(match_id, lang, proxy):
     from curl_cffi import requests as cffi
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0 Safari/537.36',
@@ -117,7 +119,7 @@ def _try_room(match_id, lang, proxy):
     }
     url = f'https://www.faceit.com/{lang}/cs2/room/{match_id}/scoreboard'
     try:
-        r = cffi.get(url, impersonate='safari184', timeout=4,
+        r = cffi.get(url, impersonate='safari184', timeout=6,
                      headers=headers, proxies=proxy)
         if r.status_code == 200 and len(r.text) > 5000:
             parser = MatchRoomParser(r.text, match_id)
@@ -132,16 +134,32 @@ def _try_room(match_id, lang, proxy):
 def fetch_room_players_sync(match_id: str) -> list:
     from src.services.proxy_rotator import get_proxy_rotator
     pr = get_proxy_rotator()
-    for lang in ('ru', 'en'):
-        for _ in range(3):
-            proxy = pr.get()
+    # 4 параллельных попытки (ru/en × 2 прокси)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as ex:
+        futures = []
+        for lang in ('ru', 'en'):
+            for _ in range(2):
+                proxy = pr.get()
+                futures.append((proxy, ex.submit(_fetch_room_one,
+                                                  match_id, lang, proxy)))
+        done, pending = concurrent.futures.wait(
+            [f[1] for f in futures], timeout=10,
+            return_when=concurrent.futures.FIRST_COMPLETED)
+        for f in done:
             try:
-                result = _try_room(match_id, lang, proxy)
+                result = f.result()
                 if result:
-                    pr.report_ok(proxy)
+                    idx = [x[1] for x in futures].index(f)
+                    pr.report_ok(futures[idx][0])
+                    for x in futures:
+                        x[1].cancel()
                     return result
-                pr.report_fail(proxy)
             except Exception:
+                pass
+        for f in pending:
+            f.cancel()
+        for proxy, f in futures:
+            if not f.done():
                 pr.report_fail(proxy)
     return []
 

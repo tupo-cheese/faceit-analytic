@@ -101,20 +101,12 @@ class DeepPage(QWidget):
 
     def set_match_data(self, match_data):
         self._match_data = match_data or []
-        try:
-            self.cache_info.setText(str(len(self._match_data)))
-        except Exception:
-            pass
+        self.update_limit_info()
 
-    def set_cache_count(self, n):
+    def update_limit_info(self, available=0, current=30):
         try:
-            self.cache_info.setText(str(n))
-        except Exception:
-            pass
-
-    def set_limit(self, value):
-        try:
-            self.limit_spin.setValue(int(value))
+            self.limit_info.setText(
+                f'доступно матчей: {available}, в анализ: {current}')
         except Exception:
             pass
 
